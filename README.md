@@ -149,13 +149,18 @@ A practical planning document for defining content goals, audience needs, custom
 A comprehensive planning document for coordinating campaign goals, audience segments, customer journey stages, positioning, messaging, channels, content assets, timelines, roles, budgets, lead capture, automation, approvals, risks, testing, measurement, and post-campaign review.
 
 [Open the Campaign Planning Template](templates/campaign-planning-template.md)
+#### Editorial Calendar Template
+
+A practical planning system for coordinating publication dates, content pillars, campaigns, customer journey stages, channels, ownership, approvals, source verification, brand voice, repurposing, performance measurement, refresh schedules, and content retirement.
+
+[Open the Editorial Calendar Template](templates/editorial-calendar-template.md)
 
 Practical templates for:
 
 - [Brand voice profile](templates/brand-voice-profile-template.md)
 - [Content brief](templates/content-brief-template.md)
 - [Campaign planning](templates/campaign-planning-template.md)
-- Editorial calendars
+- [Editorial calendar](templates/editorial-calendar-template.md)
 - Customer interviews
 - Messaging guides
 - Approval workflows
