@@ -54,15 +54,22 @@ A platform-specific workflow for turning one idea, article, story, or offer into
 
 [Open the Social Media Content Prompt](prompts/social-media-content.md)
 #### Email Campaign Development Prompt
+
+A complete workflow for building welcome, nurture, launch, onboarding, follow-up, and re-engagement email campaigns that preserve brand voice and respect the reader.
+
+[Open the Email Campaign Development Prompt](prompts/email-campaigns.md)
+
 #### Lead Magnet Development Prompt
 
 A complete workflow for creating practical checklists, guides, assessments, templates, and other resources that solve a specific audience problem and lead naturally to the next step.
 
 [Open the Lead Magnet Development Prompt](prompts/lead-magnet-development.md)
 
-A complete workflow for building welcome, nurture, launch, onboarding, follow-up, and re-engagement email campaigns that preserve brand voice and respect the reader.
+#### Content Repurposing Prompt
 
-[Open the Email Campaign Development Prompt](prompts/email-campaigns.md)
+A coordinated workflow for turning one article, video, transcript, story, or workshop into a platform-specific content ecosystem without producing repetitive copies.
+
+[Open the Content Repurposing Prompt](prompts/content-repurposing.md)
 
 Reusable prompts for:
 
@@ -194,3 +201,76 @@ ai-marketing-resources/
 ├── workflows/
 ├── responsible-ai/
 └── README.md
+```
+
+---
+
+## Current Development Priorities
+
+- Brand voice discovery prompts
+- Founder knowledge-capture questions
+- Customer avatar interview templates
+- AI content review checklists
+- LinkedIn article frameworks
+- Social media repurposing workflows
+- Human approval process templates
+- Customer journey mapping resources
+- Responsible AI communication guidance
+- Prompt-writing best practices
+
+---
+
+## How to Use These Resources
+
+1. Choose the resource that matches your current goal.
+2. Replace placeholder information with your own business context.
+3. Give the AI relevant examples, background, and constraints.
+4. Review every output for accuracy and brand consistency.
+5. Add personal experience, judgment, and stories.
+6. Approve the final version before publishing or sending it.
+
+AI can prepare the work.
+
+Humans remain responsible for the message.
+
+---
+
+## Related Projects
+
+### Brand Voice AI
+
+Brand Voice AI is a human-centered system for capturing a founder’s knowledge, voice, values, stories, and communication patterns.
+
+Its purpose is to help AI-assisted content remain consistent, authentic, and unmistakably connected to the person or organization behind it.
+
+### Pogue Digital Solutions, LLC
+
+Pogue Digital Solutions, LLC provides strategy, systems, and solutions for organizations seeking to improve communication, marketing, workflows, customer outreach, and responsible AI adoption.
+
+---
+
+## Connect
+
+- [Pogue Digital Solutions, LLC](https://poguedigitalsolutions.com)
+- [LinkedIn](https://www.linkedin.com/in/johnpogue/)
+- [Writing.io](https://johnmpogue.writing.io)
+- [GitHub](https://github.com/poguedigitalsolutions)
+- [X](https://x.com/Pogue75)
+- [YouTube](https://www.youtube.com/@poguedigitalsolutions)
+- [Brand Voice AI Skool](https://www.skool.com/companyvoiceai-6106/about)
+
+---
+
+## Project Status
+
+**Status:** Active development
+
+Resources will be added and improved as the Brand Voice AI methodology, training, community, and implementation process continue to develop.
+
+---
+
+## Copyright
+
+Copyright © John M. Pogue and Pogue Digital Solutions, LLC.
+
+All rights reserved unless a specific resource states otherwise.
