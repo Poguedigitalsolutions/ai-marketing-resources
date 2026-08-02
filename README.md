@@ -78,15 +78,22 @@ An evidence-aware workflow for researching customers, competitors, pricing, tren
 [Open the Market Research Prompt](prompts/market-research.md)
 
 #### Competitive Analysis Prompt
+
+An ethical, evidence-aware workflow for comparing direct competitors, indirect competitors, substitute solutions, pricing, positioning, messaging, customer reviews, and differentiation opportunities.
+
+[Open the Competitive Analysis Prompt](prompts/competitive-analysis.md)
+
 #### Customer Journey Mapping Prompt
 
 An evidence-based workflow for mapping customer goals, questions, emotions, touchpoints, friction, trust, content needs, onboarding, retention, advocacy, automation, and measurement.
 
 [Open the Customer Journey Mapping Prompt](prompts/customer-journey-mapping.md)
 
-An ethical, evidence-aware workflow for comparing direct competitors, indirect competitors, substitute solutions, pricing, positioning, messaging, customer reviews, and differentiation opportunities.
+#### Human Review and Editing Prompt
 
-[Open the Competitive Analysis Prompt](prompts/competitive-analysis.md)
+A structured quality-control workflow for reviewing AI-assisted content for accuracy, sources, claims, brand voice, privacy, ethics, accessibility, compliance risk, and final human approval.
+
+[Open the Human Review and Editing Prompt](prompts/human-review-and-editing.md)
 
 Reusable prompts for:
 
