@@ -159,6 +159,11 @@ A practical planning system for coordinating publication dates, content pillars,
 A structured customer-research document covering participant eligibility, consent, privacy, goals, problems, alternatives, buying triggers, objections, decision criteria, customer language, journey mapping, evidence confidence, pattern analysis, and human review.
 
 [Open the Customer Interview Template](templates/customer-interview-template.md)
+#### Messaging Guide Template
+
+A comprehensive messaging resource for documenting positioning, audience needs, customer language, core messages, value propositions, differentiators, offer descriptions, proof, objections, trust-building language, calls to action, channel guidance, testing, approvals, and version history.
+
+[Open the Messaging Guide Template](templates/messaging-guide-template.md)
 
 Practical templates for:
 
@@ -167,7 +172,7 @@ Practical templates for:
 - [Campaign planning](templates/campaign-planning-template.md)
 - [Editorial calendar](templates/editorial-calendar-template.md)
 - [Customer interview](templates/customer-interview-template.md)
-- Messaging guides
+- [Messaging guide](templates/messaging-guide-template.md)
 - Approval workflows
 - Case studies
 - Marketing reports
