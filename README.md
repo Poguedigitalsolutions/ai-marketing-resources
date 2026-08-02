@@ -71,6 +71,12 @@ A coordinated workflow for turning one article, video, transcript, story, or wor
 
 [Open the Content Repurposing Prompt](prompts/content-repurposing.md)
 
+#### Market Research Prompt
+
+An evidence-aware workflow for researching customers, competitors, pricing, trends, opportunities, risks, and market validation without presenting assumptions as facts.
+
+[Open the Market Research Prompt](prompts/market-research.md)
+
 Reusable prompts for:
 
 - Brand voice discovery
