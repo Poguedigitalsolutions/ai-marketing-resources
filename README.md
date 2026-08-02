@@ -38,21 +38,25 @@ This repository will contain practical resources for:
 A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.
 
 [Open the Brand Voice Discovery Prompt](prompts/brand-voice-discovery.md)
+
 #### Customer Avatar Research Prompt
 
 An evidence-based prompt for understanding customer goals, problems, objections, decision criteria, language, and buying journey without relying on stereotypes.
 
 [Open the Customer Avatar Research Prompt](prompts/customer-avatar-research.md)
+
 #### Article Development Prompt
 
 A structured workflow for turning ideas, stories, and research into evidence-aware articles for LinkedIn, Writing.io, Substack, and other platforms.
 
 [Open the Article Development Prompt](prompts/article-development.md)
+
 #### Social Media Content Prompt
 
 A platform-specific workflow for turning one idea, article, story, or offer into distinct social posts while preserving brand voice and avoiding content clones.
 
 [Open the Social Media Content Prompt](prompts/social-media-content.md)
+
 #### Email Campaign Development Prompt
 
 A complete workflow for building welcome, nurture, launch, onboarding, follow-up, and re-engagement email campaigns that preserve brand voice and respect the reader.
@@ -94,11 +98,18 @@ An evidence-based workflow for mapping customer goals, questions, emotions, touc
 A structured quality-control workflow for reviewing AI-assisted content for accuracy, sources, claims, brand voice, privacy, ethics, accessibility, compliance risk, and final human approval.
 
 [Open the Human Review and Editing Prompt](prompts/human-review-and-editing.md)
+
 #### Founder Knowledge Capture Prompt
 
 A structured founder-interview and knowledge-base workflow for documenting origin, values, customers, offers, processes, stories, language, institutional memory, confidentiality boundaries, and knowledge gaps.
 
 [Open the Founder Knowledge Capture Prompt](prompts/founder-knowledge-capture.md)
+
+#### Marketing Automation Workflow Prompt
+
+A responsible workflow-design resource covering triggers, eligibility, consent, customer data, segmentation, automated actions, decision branches, human approvals, failure paths, testing, measurement, and change control.
+
+[Open the Marketing Automation Workflow Prompt](prompts/marketing-automation-workflow.md)
 
 Reusable prompts for:
 
@@ -114,6 +125,7 @@ Reusable prompts for:
 - Customer journey mapping
 - Human review and editing
 - Founder knowledge capture
+- Marketing automation workflows
 
 ### Templates
 
