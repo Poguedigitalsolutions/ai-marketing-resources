@@ -77,6 +77,12 @@ An evidence-aware workflow for researching customers, competitors, pricing, tren
 
 [Open the Market Research Prompt](prompts/market-research.md)
 
+#### Competitive Analysis Prompt
+
+An ethical, evidence-aware workflow for comparing direct competitors, indirect competitors, substitute solutions, pricing, positioning, messaging, customer reviews, and differentiation opportunities.
+
+[Open the Competitive Analysis Prompt](prompts/competitive-analysis.md)
+
 Reusable prompts for:
 
 - Brand voice discovery
