@@ -139,11 +139,16 @@ Reusable prompts for:
 A practical working document for recording brand identity, audience, voice characteristics, tone, language patterns, storytelling guidance, channel-specific communication, authenticity risks, source evidence, approvals, and version history.
 
 [Open the Brand Voice Profile Template](templates/brand-voice-profile-template.md)
+#### Content Brief Template
+
+A practical planning document for defining content goals, audience needs, customer journey stage, messaging, sources, brand voice, channel requirements, stories, proof, calls to action, accessibility, privacy, approvals, production, and measurement.
+
+[Open the Content Brief Template](templates/content-brief-template.md)
 
 Practical templates for:
 
 - [Brand voice profile](templates/brand-voice-profile-template.md)
-- Content briefs
+- [Content brief](templates/content-brief-template.md)
 - Campaign planning
 - Editorial calendars
 - Customer interviews
