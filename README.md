@@ -144,12 +144,17 @@ A practical working document for recording brand identity, audience, voice chara
 A practical planning document for defining content goals, audience needs, customer journey stage, messaging, sources, brand voice, channel requirements, stories, proof, calls to action, accessibility, privacy, approvals, production, and measurement.
 
 [Open the Content Brief Template](templates/content-brief-template.md)
+#### Campaign Planning Template
+
+A comprehensive planning document for coordinating campaign goals, audience segments, customer journey stages, positioning, messaging, channels, content assets, timelines, roles, budgets, lead capture, automation, approvals, risks, testing, measurement, and post-campaign review.
+
+[Open the Campaign Planning Template](templates/campaign-planning-template.md)
 
 Practical templates for:
 
 - [Brand voice profile](templates/brand-voice-profile-template.md)
 - [Content brief](templates/content-brief-template.md)
-- Campaign planning
+- [Campaign planning](templates/campaign-planning-template.md)
 - Editorial calendars
 - Customer interviews
 - Messaging guides
