@@ -33,6 +33,11 @@ This repository will contain practical resources for:
 ## Resource Library
 
 ### Prompts
+#### Featured Resource: Brand Voice Discovery Prompt
+
+A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.
+
+[Open the Brand Voice Discovery Prompt](prompts/brand-voice-discovery.md)
 
 Reusable prompts for:
 
