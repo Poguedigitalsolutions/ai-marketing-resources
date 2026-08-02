@@ -54,6 +54,11 @@ A platform-specific workflow for turning one idea, article, story, or offer into
 
 [Open the Social Media Content Prompt](prompts/social-media-content.md)
 #### Email Campaign Development Prompt
+#### Lead Magnet Development Prompt
+
+A complete workflow for creating practical checklists, guides, assessments, templates, and other resources that solve a specific audience problem and lead naturally to the next step.
+
+[Open the Lead Magnet Development Prompt](prompts/lead-magnet-development.md)
 
 A complete workflow for building welcome, nurture, launch, onboarding, follow-up, and re-engagement email campaigns that preserve brand voice and respect the reader.
 
