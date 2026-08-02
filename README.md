@@ -43,6 +43,11 @@ A structured prompt for identifying a brand’s voice, tone, values, language pa
 An evidence-based prompt for understanding customer goals, problems, objections, decision criteria, language, and buying journey without relying on stereotypes.
 
 [Open the Customer Avatar Research Prompt](prompts/customer-avatar-research.md)
+#### Article Development Prompt
+
+A structured workflow for turning ideas, stories, and research into evidence-aware articles for LinkedIn, Writing.io, Substack, and other platforms.
+
+[Open the Article Development Prompt](prompts/article-development.md)
 
 Reusable prompts for:
 
