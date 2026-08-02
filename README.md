@@ -94,6 +94,11 @@ An evidence-based workflow for mapping customer goals, questions, emotions, touc
 A structured quality-control workflow for reviewing AI-assisted content for accuracy, sources, claims, brand voice, privacy, ethics, accessibility, compliance risk, and final human approval.
 
 [Open the Human Review and Editing Prompt](prompts/human-review-and-editing.md)
+#### Founder Knowledge Capture Prompt
+
+A structured founder-interview and knowledge-base workflow for documenting origin, values, customers, offers, processes, stories, language, institutional memory, confidentiality boundaries, and knowledge gaps.
+
+[Open the Founder Knowledge Capture Prompt](prompts/founder-knowledge-capture.md)
 
 Reusable prompts for:
 
@@ -108,6 +113,7 @@ Reusable prompts for:
 - Competitive analysis
 - Customer journey mapping
 - Human review and editing
+- Founder knowledge capture
 
 ### Templates
 
