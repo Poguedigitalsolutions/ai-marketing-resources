@@ -53,6 +53,11 @@ A structured workflow for turning ideas, stories, and research into evidence-awa
 A platform-specific workflow for turning one idea, article, story, or offer into distinct social posts while preserving brand voice and avoiding content clones.
 
 [Open the Social Media Content Prompt](prompts/social-media-content.md)
+#### Email Campaign Development Prompt
+
+A complete workflow for building welcome, nurture, launch, onboarding, follow-up, and re-engagement email campaigns that preserve brand voice and respect the reader.
+
+[Open the Email Campaign Development Prompt](prompts/email-campaigns.md)
 
 Reusable prompts for:
 
