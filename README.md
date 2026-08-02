@@ -110,6 +110,11 @@ A structured founder-interview and knowledge-base workflow for documenting origi
 A responsible workflow-design resource covering triggers, eligibility, consent, customer data, segmentation, automated actions, decision branches, human approvals, failure paths, testing, measurement, and change control.
 
 [Open the Marketing Automation Workflow Prompt](prompts/marketing-automation-workflow.md)
+#### Prompt Development and Testing Prompt
+
+A systematic resource for defining AI tasks, organizing context, setting source rules and constraints, identifying failure modes, testing representative scenarios, comparing prompt versions, and documenting human approval.
+
+[Open the Prompt Development and Testing Prompt](prompts/prompt-development-and-testing.md)
 
 Reusable prompts for:
 
@@ -126,6 +131,7 @@ Reusable prompts for:
 - Human review and editing
 - Founder knowledge capture
 - Marketing automation workflows
+- Prompt development and testing
 
 ### Templates
 
