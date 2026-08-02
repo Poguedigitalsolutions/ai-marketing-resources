@@ -134,10 +134,15 @@ Reusable prompts for:
 - Prompt development and testing
 
 ### Templates
+#### Featured Template: Brand Voice Profile Template
+
+A practical working document for recording brand identity, audience, voice characteristics, tone, language patterns, storytelling guidance, channel-specific communication, authenticity risks, source evidence, approvals, and version history.
+
+[Open the Brand Voice Profile Template](templates/brand-voice-profile-template.md)
 
 Practical templates for:
 
-- Brand voice profiles
+- [Brand voice profile](templates/brand-voice-profile-template.md)
 - Content briefs
 - Campaign planning
 - Editorial calendars
