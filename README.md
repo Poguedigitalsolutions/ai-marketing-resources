@@ -154,6 +154,11 @@ A comprehensive planning document for coordinating campaign goals, audience segm
 A practical planning system for coordinating publication dates, content pillars, campaigns, customer journey stages, channels, ownership, approvals, source verification, brand voice, repurposing, performance measurement, refresh schedules, and content retirement.
 
 [Open the Editorial Calendar Template](templates/editorial-calendar-template.md)
+#### Customer Interview Template
+
+A structured customer-research document covering participant eligibility, consent, privacy, goals, problems, alternatives, buying triggers, objections, decision criteria, customer language, journey mapping, evidence confidence, pattern analysis, and human review.
+
+[Open the Customer Interview Template](templates/customer-interview-template.md)
 
 Practical templates for:
 
@@ -161,7 +166,7 @@ Practical templates for:
 - [Content brief](templates/content-brief-template.md)
 - [Campaign planning](templates/campaign-planning-template.md)
 - [Editorial calendar](templates/editorial-calendar-template.md)
-- Customer interviews
+- [Customer interview](templates/customer-interview-template.md)
 - Messaging guides
 - Approval workflows
 - Case studies
