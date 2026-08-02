@@ -78,6 +78,11 @@ An evidence-aware workflow for researching customers, competitors, pricing, tren
 [Open the Market Research Prompt](prompts/market-research.md)
 
 #### Competitive Analysis Prompt
+#### Customer Journey Mapping Prompt
+
+An evidence-based workflow for mapping customer goals, questions, emotions, touchpoints, friction, trust, content needs, onboarding, retention, advocacy, automation, and measurement.
+
+[Open the Customer Journey Mapping Prompt](prompts/customer-journey-mapping.md)
 
 An ethical, evidence-aware workflow for comparing direct competitors, indirect competitors, substitute solutions, pricing, positioning, messaging, customer reviews, and differentiation opportunities.
 
