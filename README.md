@@ -38,6 +38,11 @@ This repository will contain practical resources for:
 A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.
 
 [Open the Brand Voice Discovery Prompt](prompts/brand-voice-discovery.md)
+#### Customer Avatar Research Prompt
+
+An evidence-based prompt for understanding customer goals, problems, objections, decision criteria, language, and buying journey without relying on stereotypes.
+
+[Open the Customer Avatar Research Prompt](prompts/customer-avatar-research.md)
 
 Reusable prompts for:
 
