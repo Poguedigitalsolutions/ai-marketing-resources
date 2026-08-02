@@ -202,3 +202,29 @@ Finish with a concise reference card containing:
 Do not claim certainty when the evidence is limited.
 
 When the supplied examples are insufficient, explain what additional material would improve the analysis.
+
+```
+
+---
+
+## Recommended Follow-Up Questions
+
+After receiving the initial report, ask the AI:
+
+### Follow-Up 1: Test the Evidence
+
+```text
+Which conclusions in this report are strongly supported by the examples, and which are interpretations that need confirmation?
+```
+
+### Follow-Up 2: Identify the Gaps
+
+```text
+What additional writing samples, stories, or interview questions would help make this brand voice profile more accurate?
+```
+
+### Follow-Up 3: Strengthen the Profile
+
+```text
+Create ten questions I can answer in my own words to strengthen the missing areas of this brand voice profile. Ask the questions one at a time.
+```
