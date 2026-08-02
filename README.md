@@ -48,6 +48,11 @@ An evidence-based prompt for understanding customer goals, problems, objections,
 A structured workflow for turning ideas, stories, and research into evidence-aware articles for LinkedIn, Writing.io, Substack, and other platforms.
 
 [Open the Article Development Prompt](prompts/article-development.md)
+#### Social Media Content Prompt
+
+A platform-specific workflow for turning one idea, article, story, or offer into distinct social posts while preserving brand voice and avoiding content clones.
+
+[Open the Social Media Content Prompt](prompts/social-media-content.md)
 
 Reusable prompts for:
 
