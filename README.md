@@ -211,12 +211,17 @@ A structured human-review checklist covering purpose, audience, accuracy, source
 A structured preparation resource for defining task objectives, audience context, business context, sources, facts, assumptions, missing-information rules, brand voice, output requirements, privacy, constraints, examples, failure modes, edge cases, testing, and human approval.
 
 [Open the Prompt Preparation Checklist](checklists/prompt-preparation-checklist.md)
+#### Article Publishing Checklist
+
+A structured publishing resource covering article purpose, audience, customer journey stage, headline, opening, structure, facts, sources, claims, brand voice, privacy, permissions, copyright, accessibility, platform review, approval, publication, monitoring, refresh, and retirement.
+
+[Open the Article Publishing Checklist](checklists/article-publishing-checklist.md)
 
 Step-by-step checklists for:
 
 - [Reviewing AI-generated content](checklists/ai-generated-content-review-checklist.md)
 - [Preparing a prompt](checklists/prompt-preparation-checklist.md)
-- Publishing an article
+- [Publishing an article](checklists/article-publishing-checklist.md)
 - Creating a lead magnet
 - Repurposing long-form content
 - Evaluating brand consistency
