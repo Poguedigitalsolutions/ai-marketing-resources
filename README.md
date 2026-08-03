@@ -216,13 +216,18 @@ A structured preparation resource for defining task objectives, audience context
 A structured publishing resource covering article purpose, audience, customer journey stage, headline, opening, structure, facts, sources, claims, brand voice, privacy, permissions, copyright, accessibility, platform review, approval, publication, monitoring, refresh, and retirement.
 
 [Open the Article Publishing Checklist](checklists/article-publishing-checklist.md)
+#### Lead Magnet Creation Checklist
+
+A structured lead-magnet resource covering audience needs, scope, value proposition, content, brand voice, evidence, design, accessibility, privacy, permissions, landing pages, consent, delivery, follow-up, automation, measurement, approval, refresh, and retirement.
+
+[Open the Lead Magnet Creation Checklist](checklists/lead-magnet-creation-checklist.md)
 
 Step-by-step checklists for:
 
 - [Reviewing AI-generated content](checklists/ai-generated-content-review-checklist.md)
 - [Preparing a prompt](checklists/prompt-preparation-checklist.md)
 - [Publishing an article](checklists/article-publishing-checklist.md)
-- Creating a lead magnet
+- [Creating a lead magnet](checklists/lead-magnet-creation-checklist.md)
 - Repurposing long-form content
 - Evaluating brand consistency
 - Verifying facts and sources
