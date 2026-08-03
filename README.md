@@ -311,8 +311,13 @@ A structured storytelling system covering story discovery, fact and memory separ
 ### Workflows
 
 Example AI-assisted workflows for:
+#### Featured Workflow: Article Creation
 
-- Article creation
+A structured article-development workflow covering objectives, audiences, customer journey stages, ideas, stories, research, sources, claims, compelling openings, AI-assisted drafting, human voice, meaningful conclusions, accuracy, privacy, permissions, accessibility, approval, publication, repurposing, monitoring, corrections, refresh, and retirement.
+
+[Open the Article Creation Workflow](workflows/article-creation-workflow.md)
+
+- [Article creation](workflows/article-creation-workflow.md)
 - Social media publishing
 - Email development
 - Customer research
