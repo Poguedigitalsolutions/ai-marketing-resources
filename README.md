@@ -268,10 +268,16 @@ A foundational system for defining brand identity, mission, values, audiences, c
 
 [Open the Brand Voice AI Foundation Framework](frameworks/brand-voice-ai-foundation.md)
 
+#### Featured Framework: Customer Journey Mapping
+
+A structured customer-journey system covering discovery through advocacy, customer questions, needs, emotions, barriers, touchpoints, content, messaging, calls to action, ownership, handoffs, automation, research, friction, bottlenecks, metrics, improvement, governance, and human review.
+
+[Open the Customer Journey Mapping Framework](frameworks/customer-journey-mapping.md)
+
 Frameworks for organizing marketing and communication work, including:
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
-- Customer Journey Mapping
+- [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
 - Open Big → AI Does the Heavy Lifting → Close Big
 - Human Approval Before Execution
 - Voice Before Volume
