@@ -164,6 +164,11 @@ A structured customer-research document covering participant eligibility, consen
 A comprehensive messaging resource for documenting positioning, audience needs, customer language, core messages, value propositions, differentiators, offer descriptions, proof, objections, trust-building language, calls to action, channel guidance, testing, approvals, and version history.
 
 [Open the Messaging Guide Template](templates/messaging-guide-template.md)
+#### Approval Workflow Template
+
+A structured approval system for managing risk levels, reviewer roles, brand voice, claims, sources, privacy, accessibility, compliance, automation, revisions, emergency decisions, publication authorization, monitoring, audits, and human accountability.
+
+[Open the Approval Workflow Template](templates/approval-workflow-template.md)
 
 Practical templates for:
 
@@ -173,7 +178,7 @@ Practical templates for:
 - [Editorial calendar](templates/editorial-calendar-template.md)
 - [Customer interview](templates/customer-interview-template.md)
 - [Messaging guide](templates/messaging-guide-template.md)
-- Approval workflows
+- [Approval workflow](templates/approval-workflow-template.md)
 - Case studies
 - Marketing reports
 - Standard operating procedures
