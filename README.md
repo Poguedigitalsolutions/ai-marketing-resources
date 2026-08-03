@@ -226,6 +226,11 @@ A structured lead-magnet resource covering audience needs, scope, value proposit
 A structured repurposing resource covering source ownership, permissions, message integrity, audiences, customer journey stages, channel adaptation, written, visual, video and audio derivatives, facts, brand voice, privacy, copyright, accessibility, approvals, scheduling, measurement, corrections, refresh, and retirement.
 
 [Open the Long-Form Content Repurposing Checklist](checklists/long-form-content-repurposing-checklist.md)
+#### Brand Consistency Evaluation Checklist
+
+A structured brand-consistency resource covering identity, mission, values, positioning, audiences, customer journeys, messaging, offers, brand voice, storytelling, channel communication, visual identity, AI-assisted content, accessibility, privacy, permissions, compliance, scoring, corrective action, governance, and human approval.
+
+[Open the Brand Consistency Evaluation Checklist](checklists/brand-consistency-evaluation-checklist.md)
 
 Step-by-step checklists for:
 
@@ -234,7 +239,7 @@ Step-by-step checklists for:
 - [Publishing an article](checklists/article-publishing-checklist.md)
 - [Creating a lead magnet](checklists/lead-magnet-creation-checklist.md)
 - [Repurposing long-form content](checklists/long-form-content-repurposing-checklist.md)
-- Evaluating brand consistency
+- [Evaluating brand consistency](checklists/brand-consistency-evaluation-checklist.md)
 - Verifying facts and sources
 - Protecting confidential information
 - Approving automated communications
