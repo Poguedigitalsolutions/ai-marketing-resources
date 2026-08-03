@@ -231,6 +231,11 @@ A structured repurposing resource covering source ownership, permissions, messag
 A structured brand-consistency resource covering identity, mission, values, positioning, audiences, customer journeys, messaging, offers, brand voice, storytelling, channel communication, visual identity, AI-assisted content, accessibility, privacy, permissions, compliance, scoring, corrective action, governance, and human approval.
 
 [Open the Brand Consistency Evaluation Checklist](checklists/brand-consistency-evaluation-checklist.md)
+#### Fact and Source Verification Checklist
+
+A structured verification resource covering factual statements, names, titles, dates, locations, calculations, primary and secondary sources, source credibility, claim matching, statistics, research, quotations, conflicting evidence, citation integrity, AI-generated information, specialized claims, corrections, monitoring, refresh schedules, and human approval.
+
+[Open the Fact and Source Verification Checklist](checklists/fact-and-source-verification-checklist.md)
 
 Step-by-step checklists for:
 
@@ -240,7 +245,7 @@ Step-by-step checklists for:
 - [Creating a lead magnet](checklists/lead-magnet-creation-checklist.md)
 - [Repurposing long-form content](checklists/long-form-content-repurposing-checklist.md)
 - [Evaluating brand consistency](checklists/brand-consistency-evaluation-checklist.md)
-- Verifying facts and sources
+- [Verifying facts and sources](checklists/fact-and-source-verification-checklist.md)
 - Protecting confidential information
 - Approving automated communications
 
