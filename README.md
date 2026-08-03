@@ -169,6 +169,11 @@ A comprehensive messaging resource for documenting positioning, audience needs, 
 A structured approval system for managing risk levels, reviewer roles, brand voice, claims, sources, privacy, accessibility, compliance, automation, revisions, emergency decisions, publication authorization, monitoring, audits, and human accountability.
 
 [Open the Approval Workflow Template](templates/approval-workflow-template.md)
+#### Case Study Template
+
+A structured case-study resource for documenting customer context, consent, goals, decision criteria, implementation, shared responsibilities, challenges, results, evidence, attribution, limitations, quotations, approvals, and repurposing opportunities.
+
+[Open the Case Study Template](templates/case-study-template.md)
 
 Practical templates for:
 
@@ -179,8 +184,7 @@ Practical templates for:
 - [Customer interview](templates/customer-interview-template.md)
 - [Messaging guide](templates/messaging-guide-template.md)
 - [Approval workflow](templates/approval-workflow-template.md)
-- Case studies
-- Marketing reports
+- [Case study](templates/case-study-template.md)- Marketing reports
 - Standard operating procedures
 
 ### Checklists
