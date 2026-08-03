@@ -175,6 +175,18 @@ A structured case-study resource for documenting customer context, consent, goal
 
 [Open the Case Study Template](templates/case-study-template.md)
 
+#### Marketing Report Template
+
+A structured reporting resource for documenting business goals, campaigns, channels, customer journey performance, content, traffic, engagement, leads, conversions, costs, revenue, attribution, customer feedback, data quality, limitations, recommendations, approvals, and version history.
+
+[Open the Marketing Report Template](templates/marketing-report-template.md)
+
+#### Standard Operating Procedure Template
+
+A structured SOP resource for documenting purpose, scope, triggers, roles, inputs, tools, access, step-by-step instructions, decision points, quality control, approvals, privacy, security, failure recovery, escalation, training, competency, auditing, and version history.
+
+[Open the Standard Operating Procedure Template](templates/standard-operating-procedure-template.md)
+
 Practical templates for:
 
 - [Brand voice profile](templates/brand-voice-profile-template.md)
@@ -184,8 +196,9 @@ Practical templates for:
 - [Customer interview](templates/customer-interview-template.md)
 - [Messaging guide](templates/messaging-guide-template.md)
 - [Approval workflow](templates/approval-workflow-template.md)
-- [Case study](templates/case-study-template.md)- Marketing reports
-- Standard operating procedures
+- [Case study](templates/case-study-template.md)
+- [Marketing report](templates/marketing-report-template.md)
+- [Standard operating procedure](templates/standard-operating-procedure-template.md)
 
 ### Checklists
 
