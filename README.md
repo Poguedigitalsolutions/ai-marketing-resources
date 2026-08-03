@@ -289,13 +289,18 @@ A structured human-governance system covering risk classification, reviewer role
 A structured scaling framework covering brand identity, audiences, offers, voice characteristics, tone, vocabulary, rhythm, storytelling, founder judgment, approved examples, source material, AI instructions, quality testing, brand drift, responsible scaling, measurement, governance, maturity levels, and human approval.
 
 [Open the Voice Before Volume Framework](frameworks/voice-before-volume.md)
+#### Featured Framework: Context Before Creation
+
+A practical planning framework for defining business objectives, audience needs, offers, customer journey stages, channels, brand voice, approved sources, risks, output requirements, and human review before AI-assisted content creation begins.
+
+[Open the Context Before Creation Framework](frameworks/context-before-creation.md)
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
 - [Open Big → AI Does the Heavy Lifting → Close Big](frameworks/open-big-ai-heavy-lifting-close-big.md)
 - [Human Approval Before Execution](frameworks/human-approval-before-execution.md)
 - [Voice Before Volume](frameworks/voice-before-volume.md)
-- Context Before Creation
+- [Context Before Creation](frameworks/context-before-creation.md)
 - Story-Based Content Development
 
 ### Workflows
