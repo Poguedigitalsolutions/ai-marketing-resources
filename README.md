@@ -273,11 +273,16 @@ A foundational system for defining brand identity, mission, values, audiences, c
 A structured customer-journey system covering discovery through advocacy, customer questions, needs, emotions, barriers, touchpoints, content, messaging, calls to action, ownership, handoffs, automation, research, friction, bottlenecks, metrics, improvement, governance, and human review.
 
 [Open the Customer Journey Mapping Framework](frameworks/customer-journey-mapping.md)
+#### Featured Framework: Open Big → AI Does the Heavy Lifting → Close Big
+
+A human-centered content-development system for opening with relevance, using AI for research, organization, comparison, drafting, and repurposing, then closing with human judgment, meaning, direction, and an appropriate call to action.
+
+[Open the Open Big → AI Does the Heavy Lifting → Close Big Framework](frameworks/open-big-ai-heavy-lifting-close-big.md)
 
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
-- Open Big → AI Does the Heavy Lifting → Close Big
+- [Open Big → AI Does the Heavy Lifting → Close Big](frameworks/open-big-ai-heavy-lifting-close-big.md)
 - Human Approval Before Execution
 - Voice Before Volume
 - Context Before Creation
