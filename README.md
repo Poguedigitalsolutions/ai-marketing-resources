@@ -236,6 +236,11 @@ A structured brand-consistency resource covering identity, mission, values, posi
 A structured verification resource covering factual statements, names, titles, dates, locations, calculations, primary and secondary sources, source credibility, claim matching, statistics, research, quotations, conflicting evidence, citation integrity, AI-generated information, specialized claims, corrections, monitoring, refresh schedules, and human approval.
 
 [Open the Fact and Source Verification Checklist](checklists/fact-and-source-verification-checklist.md)
+#### Confidential Information Protection Checklist
+
+A structured confidentiality resource covering information classification, personal and business data, credentials, financial, legal and health information, data minimization, redaction, files, screenshots, shared links, AI prompts and uploads, automation, access controls, storage, vendors, retention, deletion, incident response, governance, and human approval.
+
+[Open the Confidential Information Protection Checklist](checklists/confidential-information-protection-checklist.md)
 
 Step-by-step checklists for:
 
@@ -246,7 +251,7 @@ Step-by-step checklists for:
 - [Repurposing long-form content](checklists/long-form-content-repurposing-checklist.md)
 - [Evaluating brand consistency](checklists/brand-consistency-evaluation-checklist.md)
 - [Verifying facts and sources](checklists/fact-and-source-verification-checklist.md)
-- Protecting confidential information
+- [Protecting confidential information](checklists/confidential-information-protection-checklist.md)
 - Approving automated communications
 
 ### Frameworks
