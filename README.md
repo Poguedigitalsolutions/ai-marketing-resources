@@ -201,10 +201,15 @@ Practical templates for:
 - [Standard operating procedure](templates/standard-operating-procedure-template.md)
 
 ### Checklists
+#### Featured Checklist: AI-Generated Content Review Checklist
+
+A structured human-review checklist covering purpose, audience, accuracy, sources, claims, quotations, brand voice, privacy, consent, accessibility, ethical persuasion, platform requirements, specialized review, final approval, and post-publication monitoring.
+
+[Open the AI-Generated Content Review Checklist](checklists/ai-generated-content-review-checklist.md)
 
 Step-by-step checklists for:
 
-- Reviewing AI-generated content
+- [Reviewing AI-generated content](checklists/ai-generated-content-review-checklist.md)
 - Preparing a prompt
 - Publishing an article
 - Creating a lead magnet
