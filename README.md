@@ -274,7 +274,6 @@ A structured customer-journey system covering discovery through advocacy, custom
 
 [Open the Customer Journey Mapping Framework](frameworks/customer-journey-mapping.md)
 
-Frameworks for organizing marketing and communication work, including:
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
