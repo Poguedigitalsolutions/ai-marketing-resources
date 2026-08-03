@@ -321,11 +321,22 @@ A structured article-development workflow covering objectives, audiences, custom
 A structured social-media workflow covering objectives, audiences, customer journey stages, platform selection, content briefs, AI-assisted drafting, brand voice, facts, claims, privacy, permissions, visual media, accessibility, hashtags, links, human approval, scheduling, publishing, comment management, escalation, monitoring, corrections, repurposing, refresh, and retirement.
 
 [Open the Social Media Publishing Workflow](workflows/social-media-publishing-workflow.md)
+#### Featured Workflow: Email Development
+
+A structured email workflow covering objectives, audiences, customer journey stages, email types, consent, eligibility, messaging, offers, subject lines, preview text, AI-assisted drafting, brand voice, facts, claims, personalization, privacy, accessibility, links, landing pages, unsubscribe requirements, technical testing, human approval, automation, replies, monitoring, corrections, improvement, refresh, and retirement.
+
+[Open the Email Development Workflow](workflows/email-development-workflow.md)
+
+#### Featured Workflow: Customer Research
+
+A structured customer-research workflow covering research decisions, audiences, segments, methods, sampling, recruitment, consent, privacy, neutral questions, interviews, surveys, direct customer language, evidence classification, AI-assisted analysis, themes, contradictory evidence, findings, recommendations, human approval, application controls, archiving, refresh, and retirement.
+
+[Open the Customer Research Workflow](workflows/customer-research-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
-- Email development
-- Customer research
+- [Email development](workflows/email-development-workflow.md)
+- [Customer research](workflows/customer-research-workflow.md)
 - Brand voice onboarding
 - Lead generation
 - Content review
