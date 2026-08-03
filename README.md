@@ -279,11 +279,16 @@ A human-centered content-development system for opening with relevance, using AI
 
 [Open the Open Big → AI Does the Heavy Lifting → Close Big Framework](frameworks/open-big-ai-heavy-lifting-close-big.md)
 
+#### Featured Framework: Human Approval Before Execution
+
+A structured human-governance system covering risk classification, reviewer roles, accuracy, sources, claims, brand voice, privacy, permissions, accessibility, AI controls, approval checkpoints, specialized review, testing, execution authorization, emergency pause, rollback, incident response, monitoring, audit trails, and accountability.
+
+[Open the Human Approval Before Execution Framework](frameworks/human-approval-before-execution.md)
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
 - [Open Big → AI Does the Heavy Lifting → Close Big](frameworks/open-big-ai-heavy-lifting-close-big.md)
-- Human Approval Before Execution
+- [Human Approval Before Execution](frameworks/human-approval-before-execution.md)
 - Voice Before Volume
 - Context Before Creation
 - Story-Based Content Development
