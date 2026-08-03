@@ -241,6 +241,11 @@ A structured verification resource covering factual statements, names, titles, d
 A structured confidentiality resource covering information classification, personal and business data, credentials, financial, legal and health information, data minimization, redaction, files, screenshots, shared links, AI prompts and uploads, automation, access controls, storage, vendors, retention, deletion, incident response, governance, and human approval.
 
 [Open the Confidential Information Protection Checklist](checklists/confidential-information-protection-checklist.md)
+#### Automated Communications Approval Checklist
+
+A structured approval resource covering communication purpose, audiences, journey stages, trigger logic, enrollment, suppression, consent, opt-out, accuracy, brand voice, personalization, privacy, AI-generated content, email, SMS, chatbots, CRM, social automation, timing, frequency, testing, failure handling, emergency pause, monitoring, corrections, version control, and retirement.
+
+[Open the Automated Communications Approval Checklist](checklists/automated-communications-approval-checklist.md)
 
 Step-by-step checklists for:
 
@@ -252,7 +257,7 @@ Step-by-step checklists for:
 - [Evaluating brand consistency](checklists/brand-consistency-evaluation-checklist.md)
 - [Verifying facts and sources](checklists/fact-and-source-verification-checklist.md)
 - [Protecting confidential information](checklists/confidential-information-protection-checklist.md)
-- Approving automated communications
+- [Approving automated communications](checklists/automated-communications-approval-checklist.md)
 
 ### Frameworks
 
