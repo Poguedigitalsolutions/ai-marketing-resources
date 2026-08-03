@@ -294,6 +294,11 @@ A structured scaling framework covering brand identity, audiences, offers, voice
 A practical planning framework for defining business objectives, audience needs, offers, customer journey stages, channels, brand voice, approved sources, risks, output requirements, and human review before AI-assisted content creation begins.
 
 [Open the Context Before Creation Framework](frameworks/context-before-creation.md)
+#### Featured Framework: Story-Based Content Development
+
+A structured storytelling system covering story discovery, fact and memory separation, interpretation, reconstruction, dignity, consent, privacy, structure, tension, turning points, lessons, business connections, AI boundaries, format adaptation, repurposing, review, approval, archiving, version control, and human accountability.
+
+[Open the Story-Based Content Development Framework](frameworks/story-based-content-development.md)
 
 - [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - [Customer Journey Mapping](frameworks/customer-journey-mapping.md)
@@ -301,7 +306,7 @@ A practical planning framework for defining business objectives, audience needs,
 - [Human Approval Before Execution](frameworks/human-approval-before-execution.md)
 - [Voice Before Volume](frameworks/voice-before-volume.md)
 - [Context Before Creation](frameworks/context-before-creation.md)
-- Story-Based Content Development
+- [Story-Based Content Development](frameworks/story-based-content-development.md)
 
 ### Workflows
 
