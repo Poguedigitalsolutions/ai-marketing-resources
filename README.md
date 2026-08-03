@@ -262,8 +262,15 @@ Step-by-step checklists for:
 ### Frameworks
 
 Frameworks for organizing marketing and communication work, including:
+#### Featured Framework: Brand Voice AI Foundation
 
-- Brand Voice AI Foundation
+A foundational system for defining brand identity, mission, values, audiences, customer journeys, offers, positioning, claims, voice, storytelling, founder knowledge, approved source material, AI instructions, human approval, implementation phases, maturity levels, governance, scoring, and version control.
+
+[Open the Brand Voice AI Foundation Framework](frameworks/brand-voice-ai-foundation.md)
+
+Frameworks for organizing marketing and communication work, including:
+
+- [Brand Voice AI Foundation](frameworks/brand-voice-ai-foundation.md)
 - Customer Journey Mapping
 - Open Big → AI Does the Heavy Lifting → Close Big
 - Human Approval Before Execution
