@@ -316,9 +316,14 @@ Example AI-assisted workflows for:
 A structured article-development workflow covering objectives, audiences, customer journey stages, ideas, stories, research, sources, claims, compelling openings, AI-assisted drafting, human voice, meaningful conclusions, accuracy, privacy, permissions, accessibility, approval, publication, repurposing, monitoring, corrections, refresh, and retirement.
 
 [Open the Article Creation Workflow](workflows/article-creation-workflow.md)
+#### Featured Workflow: Social Media Publishing
+
+A structured social-media workflow covering objectives, audiences, customer journey stages, platform selection, content briefs, AI-assisted drafting, brand voice, facts, claims, privacy, permissions, visual media, accessibility, hashtags, links, human approval, scheduling, publishing, comment management, escalation, monitoring, corrections, repurposing, refresh, and retirement.
+
+[Open the Social Media Publishing Workflow](workflows/social-media-publishing-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
-- Social media publishing
+- [Social media publishing](workflows/social-media-publishing-workflow.md)
 - Email development
 - Customer research
 - Brand voice onboarding
