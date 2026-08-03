@@ -221,6 +221,11 @@ A structured publishing resource covering article purpose, audience, customer jo
 A structured lead-magnet resource covering audience needs, scope, value proposition, content, brand voice, evidence, design, accessibility, privacy, permissions, landing pages, consent, delivery, follow-up, automation, measurement, approval, refresh, and retirement.
 
 [Open the Lead Magnet Creation Checklist](checklists/lead-magnet-creation-checklist.md)
+#### Long-Form Content Repurposing Checklist
+
+A structured repurposing resource covering source ownership, permissions, message integrity, audiences, customer journey stages, channel adaptation, written, visual, video and audio derivatives, facts, brand voice, privacy, copyright, accessibility, approvals, scheduling, measurement, corrections, refresh, and retirement.
+
+[Open the Long-Form Content Repurposing Checklist](checklists/long-form-content-repurposing-checklist.md)
 
 Step-by-step checklists for:
 
@@ -228,7 +233,7 @@ Step-by-step checklists for:
 - [Preparing a prompt](checklists/prompt-preparation-checklist.md)
 - [Publishing an article](checklists/article-publishing-checklist.md)
 - [Creating a lead magnet](checklists/lead-magnet-creation-checklist.md)
-- Repurposing long-form content
+- [Repurposing long-form content](checklists/long-form-content-repurposing-checklist.md)
 - Evaluating brand consistency
 - Verifying facts and sources
 - Protecting confidential information
