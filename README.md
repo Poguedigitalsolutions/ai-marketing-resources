@@ -383,9 +383,14 @@ Practical resources for collecting, organizing, verifying, interpreting, and app
 A comprehensive Voice of Customer research guide covering research decisions, audiences, segments, methods, recruitment, consent, privacy, interviews, surveys, conversation analysis, direct customer language, evidence classification, coding, themes, contradictions, customer journeys, research libraries, findings, recommendations, positioning, offers, messaging, content, sales, customer experience, AI grounding, human review, refresh, archival, and retirement.
 
 [Open the Voice of Customer Research Guide](customer-research/voice-of-customer-research-guide.md)
+#### Featured Resource: Customer Interview Question Bank
+
+A comprehensive customer interview question bank covering research decisions, consent, privacy, interviewer conduct, customer context, problems, triggers, previous attempts, alternatives, trust, doubt, objections, buying decisions, desired outcomes, onboarding, customer experience, retention, churn, lost deals, referrals, offer validation, messaging, content, AI use, follow-up prompts, evidence classification, quotation integrity, human review, and governance.
+
+[Open the Customer Interview Question Bank](customer-research/customer-interview-question-bank.md)
 
 - [Voice of Customer research guide](customer-research/voice-of-customer-research-guide.md)
-
+- [Customer interview question bank](customer-research/customer-interview-question-bank.md)
 ---
 
 ## Core Principles
