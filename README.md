@@ -549,6 +549,11 @@ A comprehensive AI monitoring, audit, and review guide covering approved baselin
 An organization-wide AI policy and governance framework covering responsible AI principles, scope, approved, restricted and prohibited uses, roles and accountability, risk classification, data privacy and confidentiality, bias, inclusion, accessibility, transparency, human approval, tool and vendor governance, integrations, APIs, agents, monitoring, audit, incident response, training, documentation, reapproval, exceptions, enforcement, suspension, retirement, policy review, governance ownership, and version history.
 
 [Open the AI Policy and Governance Framework](responsible-ai/ai-policy-and-governance-framework.md)
+#### Featured Roadmap: Responsible AI Implementation
+
+A comprehensive responsible AI implementation roadmap covering current-state assessment, governance ownership, tool and vendor inventories, data classification, use-case discovery, risk prioritization, immediate safeguards, policy development, pilot selection, human approval, training, monitoring, audits, incident readiness, documentation, reapproval, governance maturity, dependencies, approval gates, success measures, and 30-day, 60-day, and 90-day implementation phases.
+
+[Open the Responsible AI Implementation Roadmap](responsible-ai/responsible-ai-implementation-roadmap.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
@@ -560,7 +565,7 @@ An organization-wide AI policy and governance framework covering responsible AI 
 - [AI tool and vendor governance guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
 - [AI monitoring, audit, and review guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
 - [AI policy and governance framework](responsible-ai/ai-policy-and-governance-framework.md)
-
+- [Responsible AI implementation roadmap](responsible-ai/responsible-ai-implementation-roadmap.md)
 ---
    ## Core Principles
 
