@@ -519,11 +519,17 @@ A comprehensive human approval and oversight guide covering review requirements,
 A comprehensive AI data privacy and confidentiality guide covering business purpose, data inventories, classification, minimization, redaction, anonymization, tool and vendor review, storage, retention, model-training use, access controls, uploaded files, screenshots, transcripts, CRM notes, private messages, credentials, health, legal and financial information, retrieval systems, custom GPTs, AI agents, generated outputs, incident response, correction, notification, deletion, escalation, reapproval, responsible AI assistance, governance, and retirement.
 
 [Open the AI Data Privacy and Confidentiality Guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
+#### Featured Guide: AI Bias, Inclusion, and Accessibility
+
+A comprehensive AI bias, inclusion, and accessibility guide covering affected audiences, bias sources, representation, stereotypes, assumptions, exclusion, harmful defaults, audience segmentation, differential treatment, prompt bias, output bias, targeting, personalization, cross-group testing, minority viewpoints, contradictions, text, image, video, audio, form, table and interface accessibility, reviewers, findings, escalation, responsible AI assistance, monitoring, reapproval, governance, pausing, and retirement.
+
+[Open the AI Bias, Inclusion, and Accessibility Guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
 - [Human approval and oversight guide](responsible-ai/human-approval-and-oversight-guide.md)
 - [AI data privacy and confidentiality guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
+- [AI bias, inclusion, and accessibility guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
 
 ---
    ## Core Principles
