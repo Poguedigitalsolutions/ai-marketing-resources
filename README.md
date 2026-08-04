@@ -333,10 +333,17 @@ A structured customer-research workflow covering research decisions, audiences, 
 
 [Open the Customer Research Workflow](workflows/customer-research-workflow.md)
 
+#### Featured Workflow: Knowledge Ingestion and Grounding
+
+A structured workflow for turning transcripts, manuals, brand documents, and other large sources into a governed AI knowledge system. It covers authorization, preparation, privacy, metadata, controlled storage, retrieval, citations, permissions, testing, human approval, monitoring, refresh, and deletion.
+
+[Open the Knowledge Ingestion and Grounding Workflow](workflows/knowledge-ingestion-and-grounding-workflow.md)
+
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
 - [Email development](workflows/email-development-workflow.md)
 - [Customer research](workflows/customer-research-workflow.md)
+- [Knowledge ingestion and grounding](workflows/knowledge-ingestion-and-grounding-workflow.md)
 - Brand voice onboarding
 - Lead generation
 - Content review
