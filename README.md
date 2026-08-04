@@ -453,6 +453,11 @@ A comprehensive content headline development guide covering strategic alignment,
 A comprehensive content outline development guide covering strategic alignment, audiences, customer journey stages, content promises, structural models, openings, section planning, sequencing, evidence, stories, examples, objections, transitions, conclusions, repetition control, logic gaps, unsupported claims, content drift, format adaptation, length, responsible AI, outline comparison, scoring, approval, revision, testing, archival, and retirement.
 
 [Open the Content Outline Development Guide](content-strategy/content-outline-development-guide.md)
+#### Featured Guide: Content Draft Development
+
+A comprehensive content draft development guide covering strategic alignment, drafting preparation, openings, section development, logical progression, evidence, sources, stories, examples, objections, transitions, brand voice, tone, filler, repetition, unsupported claims, generic AI language, content drift, conclusions, calls to action, format adaptation, responsible AI, completeness review, draft comparison, scoring, approval, revision, archival, and retirement.
+
+[Open the Content Draft Development Guide](content-strategy/content-draft-development-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -463,7 +468,9 @@ A comprehensive content outline development guide covering strategic alignment, 
 - [Content hook development guide](content-strategy/content-hook-development-guide.md)
 - [Content headline development guide](content-strategy/content-headline-development-guide.md)
 - [Content outline development guide](content-strategy/content-outline-development-guide.md)
-## Core Principles
+- [Content draft development guide](content-strategy/content-draft-development-guide.md)
+
+  ## Core Principles
 
 ### Human Before Machine
 
