@@ -353,6 +353,11 @@ A structured lead-generation workflow covering objectives, audiences, qualificat
 A structured content-review workflow covering objectives, audiences, journey stages, channels, version control, usefulness, structure, clarity, brand voice, AI integrity, facts, sources, claims, quotations, stories, privacy, permissions, copyright, accessibility, visuals, links, ethical communication, specialized review, corrections, human approval, monitoring, refresh, and retirement.
 
 [Open the Content Review Workflow](workflows/content-review-workflow.md)
+#### Featured Workflow: Campaign Planning
+
+A structured campaign-planning workflow covering objectives, audiences, customer journeys, offers, positioning, messaging, brand voice, channels, content themes, assets, timelines, responsibilities, budgets, lead capture, CRM routing, follow-up, sales handoffs, automation, facts, claims, privacy, permissions, accessibility, risks, approval gates, testing, human approval, launch, monitoring, attribution, optimization, corrections, closeout, refresh, and retirement.
+
+[Open the Campaign Planning Workflow](workflows/campaign-planning-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
@@ -362,7 +367,7 @@ A structured content-review workflow covering objectives, audiences, journey sta
 - [Brand voice onboarding](workflows/brand-voice-onboarding-workflow.md)
 - [Lead generation](workflows/lead-generation-workflow.md)
 - [Content review](workflows/content-review-workflow.md)
-- Campaign planning
+- [Campaign planning](workflows/campaign-planning-workflow.md)
 - Performance reporting
 
 ---
