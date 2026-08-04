@@ -388,9 +388,16 @@ A comprehensive Voice of Customer research guide covering research decisions, au
 A comprehensive customer interview question bank covering research decisions, consent, privacy, interviewer conduct, customer context, problems, triggers, previous attempts, alternatives, trust, doubt, objections, buying decisions, desired outcomes, onboarding, customer experience, retention, churn, lost deals, referrals, offer validation, messaging, content, AI use, follow-up prompts, evidence classification, quotation integrity, human review, and governance.
 
 [Open the Customer Interview Question Bank](customer-research/customer-interview-question-bank.md)
+#### Featured Resource: Customer Evidence Library
+
+A governed customer evidence library covering source records, participants, consent, permissions, privacy, exact quotations, context, behavioral evidence, evidence classification, audience segments, customer journey stages, problems, triggers, previous attempts, alternatives, objections, trust, doubt, desired outcomes, success, failure, retention, churn, themes, contradictions, minority viewpoints, confidence levels, approved applications, AI grounding, access controls, review, refresh, retirement, and human approval.
+
+[Open the Customer Evidence Library](customer-research/customer-evidence-library.md)
 
 - [Voice of Customer research guide](customer-research/voice-of-customer-research-guide.md)
 - [Customer interview question bank](customer-research/customer-interview-question-bank.md)
+- [Customer evidence library](customer-research/customer-evidence-library.md)
+
 ---
 
 ## Core Principles
