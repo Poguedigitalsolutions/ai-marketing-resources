@@ -43,7 +43,9 @@ This repository contains practical resources for:
 - [Core Principles](#core-principles)
 - [How to Use These Resources](#how-to-use-these-resources)
 
----
+### Prompts
+
+#### Featured Resource: Brand Voice Discovery Prompt
 
 ## Resource Library
 
@@ -152,6 +154,7 @@ Reusable prompts for:
 ---
 
 ### Templates
+
 #### Featured Template: Brand Voice Profile Template
 
 A practical working document for recording brand identity, audience, voice characteristics, tone, language patterns, storytelling guidance, channel-specific communication, authenticity risks, source evidence, approvals, and version history.
@@ -219,8 +222,8 @@ Practical templates for:
 - [Standard operating procedure](templates/standard-operating-procedure-template.md)
 
 ---
-
 ### Checklists
+
 #### Featured Checklist: AI-Generated Content Review Checklist
 
 A structured human-review checklist covering purpose, audience, accuracy, sources, claims, quotations, brand voice, privacy, consent, accessibility, ethical persuasion, platform requirements, specialized review, final approval, and post-publication monitoring.
@@ -399,10 +402,10 @@ A structured performance-reporting workflow covering reporting objectives, audie
 - [Content review](workflows/content-review-workflow.md)
 - [Campaign planning](workflows/campaign-planning-workflow.md)
 - [Performance reporting](workflows/performance-reporting-workflow.md)
+
 ---
 
 ### Customer Research
-
 Practical resources for collecting, organizing, verifying, interpreting, and applying customer evidence without flattening people into generic personas or manufactured quotations.
 
 #### Featured Guide: Voice of Customer Research
@@ -430,6 +433,7 @@ A comprehensive customer research synthesis guide covering evidence preparation,
 - [Customer interview question bank](customer-research/customer-interview-question-bank.md)
 - [Customer evidence library](customer-research/customer-evidence-library.md)
 - [Customer research synthesis guide](customer-research/customer-research-synthesis-guide.md)
+
 ---
 
 ### Content Strategy
@@ -522,6 +526,7 @@ A comprehensive content refresh and retirement guide covering review triggers, v
 - [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
 - [Content performance review guide](content-strategy/content-performance-review-guide.md)
 - [Content refresh and retirement guide](content-strategy/content-refresh-and-retirement-guide.md)
+
 ---
 
 ### Responsible AI
@@ -596,10 +601,10 @@ A comprehensive responsible AI implementation roadmap covering current-state ass
 - [AI monitoring, audit, and review guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
 - [AI policy and governance framework](responsible-ai/ai-policy-and-governance-framework.md)
 - [Responsible AI implementation roadmap](responsible-ai/responsible-ai-implementation-roadmap.md)
+
 ---
 
 ## Core Principles
-
 ### Human Before Machine
 
 AI should support human judgment, creativity, and decision-making.
