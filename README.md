@@ -463,6 +463,11 @@ A comprehensive content draft development guide covering strategic alignment, dr
 A comprehensive content editing guide covering developmental editing, substantive editing, line editing, copyediting, proofreading, strategic alignment, structure, logic, evidence, claims, stories, objections, transitions, conclusions, calls to action, clarity, flow, brand voice, tone, filler, repetition, vague language, generic AI phrasing, grammar, privacy, permissions, copyright, accessibility, links, citations, formatting, platform requirements, responsible AI, version comparison, reviewer conflict resolution, final approval, archival, and retirement.
 
 [Open the Content Editing Guide](content-strategy/content-editing-guide.md)
+#### Featured Guide: Content Publication Readiness
+
+A comprehensive content publication readiness guide covering final approval, version control, headline and hook alignment, facts, claims, sources, citations, links, privacy, confidentiality, permissions, copyright, accessibility, mobile presentation, platform requirements, metadata, visual assets, tracking, analytics, conversion destinations, scheduling, ownership, rollback, corrections, escalation, responsible AI, human approval, live verification, monitoring, archival, refresh, and retirement.
+
+[Open the Content Publication Readiness Guide](content-strategy/content-publication-readiness-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -475,8 +480,9 @@ A comprehensive content editing guide covering developmental editing, substantiv
 - [Content outline development guide](content-strategy/content-outline-development-guide.md)
 - [Content draft development guide](content-strategy/content-draft-development-guide.md)
 - [Content editing guide](content-strategy/content-editing-guide.md)
-  
-  ## Core Principles
+- [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
+
+   ## Core Principles
 
 ### Human Before Machine
 
