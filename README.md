@@ -539,6 +539,11 @@ A comprehensive AI incident response and correction guide covering incident dete
 A comprehensive AI tool and vendor governance guide covering business purpose, intended uses, vendor review, data handling, storage, retention, model-training use, security, subprocessors, model capabilities and limitations, reliability, explainability, auditability, export, deletion, ownership, licensing, pricing, contracts, approved, restricted and prohibited uses, integrations, connectors, APIs, agents, write permissions, pilot testing, user training, ownership, monitoring, reassessment, renewal, suspension, retirement, governance, and version history.
 
 [Open the AI Tool and Vendor Governance Guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
+#### Featured Guide: AI Monitoring, Audit, and Review
+
+A comprehensive AI monitoring, audit, and review guide covering approved baselines, monitoring signals, thresholds, ownership, review frequency, accuracy, brand voice, privacy, security, bias, accessibility, disclosure, automation, approval, reliability and performance monitoring, prompt, output, model, data-source, permission, approval, automation and agent audits, vendor and contract changes, drift detection, evidence preservation, findings, risk reclassification, corrective action, reapproval, recurring audits, event-triggered reviews, continuation, restriction, redesign, suspension, retirement, governance, and version history.
+
+[Open the AI Monitoring, Audit, and Review Guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
@@ -548,7 +553,7 @@ A comprehensive AI tool and vendor governance guide covering business purpose, i
 - [AI transparency and disclosure guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
 - [AI incident response and correction guide](responsible-ai/ai-incident-response-and-correction-guide.md)
 - [AI tool and vendor governance guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
-
+- [AI monitoring, audit, and review guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
 ---
    ## Core Principles
 
