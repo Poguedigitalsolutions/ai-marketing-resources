@@ -329,8 +329,11 @@ A structured storytelling system covering story discovery, fact and memory separ
 - [Context Before Creation](frameworks/context-before-creation.md)
 - [Story-Based Content Development](frameworks/story-based-content-development.md)
 
-### Workflows
+---
 
+Example AI-assisted workflows for:
+
+#### Featured Workflow: Article Creation
 Example AI-assisted workflows for:
 #### Featured Workflow: Article Creation
 
@@ -518,8 +521,9 @@ A comprehensive content refresh and retirement guide covering review triggers, v
 - [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
 - [Content performance review guide](content-strategy/content-performance-review-guide.md)
 - [Content refresh and retirement guide](content-strategy/content-refresh-and-retirement-guide.md)
-### Responsible AI
+---
 
+### Responsible AI
 Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
 
 #### Featured Foundation: Responsible AI Marketing Principles
@@ -528,7 +532,8 @@ A foundational responsible AI marketing guide covering human accountability, tru
 
 [Open the Responsible AI Marketing Principles](responsible-ai/responsible-ai-marketing-principles.md)
 
-- [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
+
+#### Featured Guide: AI Use Risk Classification
 
 
 A comprehensive AI use risk classification guide covering business purpose, affected people, audience vulnerability, data sensitivity, claim sensitivity, automation level, scale, reversibility, potential harm, transparency, low, moderate, high, and prohibited classifications, required controls, stop conditions, reviewers, approvers, monitoring, escalation, reclassification, responsible AI assistance, final approval, pausing, retirement, governance, and version history.
@@ -592,9 +597,8 @@ A comprehensive responsible AI implementation roadmap covering current-state ass
 - [AI policy and governance framework](responsible-ai/ai-policy-and-governance-framework.md)
 - [Responsible AI implementation roadmap](responsible-ai/responsible-ai-implementation-roadmap.md)
 ---
- ---
 
-## Core Principles  ## Core Principles
+## Core Principles
 
 ### Human Before Machine
 
