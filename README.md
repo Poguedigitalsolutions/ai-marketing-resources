@@ -514,10 +514,16 @@ A comprehensive AI use risk classification guide covering business purpose, affe
 A comprehensive human approval and oversight guide covering review requirements, role separation, risk-based oversight, reviewer context, exact-version control, approval types, conditional approval, rejection, stop conditions, bypass prevention, time-limited approval, high-volume queues, anti-rubber-stamping controls, decision records, reapproval triggers, monitoring, escalation, responsible AI assistance, pausing, retirement, governance, and accountability.
 
 [Open the Human Approval and Oversight Guide](responsible-ai/human-approval-and-oversight-guide.md)
+#### Featured Guide: AI Data Privacy and Confidentiality
+
+A comprehensive AI data privacy and confidentiality guide covering business purpose, data inventories, classification, minimization, redaction, anonymization, tool and vendor review, storage, retention, model-training use, access controls, uploaded files, screenshots, transcripts, CRM notes, private messages, credentials, health, legal and financial information, retrieval systems, custom GPTs, AI agents, generated outputs, incident response, correction, notification, deletion, escalation, reapproval, responsible AI assistance, governance, and retirement.
+
+[Open the AI Data Privacy and Confidentiality Guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
 - [Human approval and oversight guide](responsible-ai/human-approval-and-oversight-guide.md)
+- [AI data privacy and confidentiality guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
 
 ---
    ## Core Principles
