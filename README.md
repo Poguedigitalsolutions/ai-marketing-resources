@@ -338,13 +338,18 @@ A structured customer-research workflow covering research decisions, audiences, 
 A structured workflow for turning transcripts, manuals, brand documents, and other large sources into a governed AI knowledge system. It covers authorization, preparation, privacy, metadata, controlled storage, retrieval, citations, permissions, testing, human approval, monitoring, refresh, and deletion.
 
 [Open the Knowledge Ingestion and Grounding Workflow](workflows/knowledge-ingestion-and-grounding-workflow.md)
+#### Featured Workflow: Brand Voice Onboarding
+
+A structured brand-voice onboarding workflow covering business identity, audiences, customer journeys, offers, source collection, founder interviews, knowledge classification, voice characteristics, tone, vocabulary, rhythm, storytelling, judgment, boundaries, knowledge libraries, AI instructions, cross-channel testing, human approval, rollout, drift monitoring, governance, refresh, and offboarding.
+
+[Open the Brand Voice Onboarding Workflow](workflows/brand-voice-onboarding-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
 - [Email development](workflows/email-development-workflow.md)
 - [Customer research](workflows/customer-research-workflow.md)
 - [Knowledge ingestion and grounding](workflows/knowledge-ingestion-and-grounding-workflow.md)
-- Brand voice onboarding
+- [Brand voice onboarding](workflows/brand-voice-onboarding-workflow.md)
 - Lead generation
 - Content review
 - Campaign planning
