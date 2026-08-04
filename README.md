@@ -493,6 +493,23 @@ A comprehensive content refresh and retirement guide covering review triggers, v
 - [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
 - [Content performance review guide](content-strategy/content-performance-review-guide.md)
 - [Content refresh and retirement guide](content-strategy/content-refresh-and-retirement-guide.md)
+### Responsible AI
+
+Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
+
+#### Featured Foundation: Responsible AI Marketing Principles
+
+A foundational responsible AI marketing guide covering human accountability, truthfulness, source integrity, privacy, confidentiality, consent, permissions, bias, inclusion, accessibility, transparency, appropriate and prohibited AI use, human approval, risk classification, escalation, correction, monitoring, governance, tool review, automation control, documentation, and retirement of unsafe or outdated AI practices.
+
+[Open the Responsible AI Marketing Principles](responsible-ai/responsible-ai-marketing-principles.md)
+
+- [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
+
+---### Responsible AI
+
+Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
+
+- [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 
    ## Core Principles
 
