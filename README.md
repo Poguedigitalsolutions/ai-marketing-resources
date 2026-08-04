@@ -473,6 +473,11 @@ A comprehensive content publication readiness guide covering final approval, ver
 A comprehensive content performance review guide covering performance questions, audiences, customer journey stages, objectives, reach, engagement, completion, conversion, retention, trust signals, audience quality, vanity metrics, data quality, expected versus actual performance, content issues, distribution issues, offer and CTA issues, timing, measurement, context, caveats, attribution limits, responsible AI, findings, decision-making, action planning, approval, follow-up, refresh, repurposing, promotion, combination, pausing, and retirement.
 
 [Open the Content Performance Review Guide](content-strategy/content-performance-review-guide.md)
+#### Featured Guide: Content Refresh and Retirement
+
+A comprehensive content refresh and retirement guide covering review triggers, version control, accuracy, source currency, audience relevance, strategic alignment, performance, offer and CTA alignment, links, privacy, permissions, copyright, accessibility, platform fit, minor refreshes, major rewrites, consolidation, redirects, archival, retirement, source and approval preservation, derivative assets, AI retrieval systems, automations, correction communication, retirement communication, responsible AI, scoring, approval, execution, verification, governance, and future review scheduling.
+
+[Open the Content Refresh and Retirement Guide](content-strategy/content-refresh-and-retirement-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -487,6 +492,7 @@ A comprehensive content performance review guide covering performance questions,
 - [Content editing guide](content-strategy/content-editing-guide.md)
 - [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
 - [Content performance review guide](content-strategy/content-performance-review-guide.md)
+- [Content refresh and retirement guide](content-strategy/content-refresh-and-retirement-guide.md)
 
    ## Core Principles
 
