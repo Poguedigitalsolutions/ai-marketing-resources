@@ -348,6 +348,11 @@ A structured brand-voice onboarding workflow covering business identity, audienc
 A structured lead-generation workflow covering objectives, audiences, qualification criteria, customer journeys, acquisition channels, offers, lead magnets, landing pages, forms, consent, privacy, delivery, CRM routing, follow-up, sales handoffs, suppression rules, tracking, claims, accessibility, testing, human approval, monitoring, lead quality, corrections, optimization, refresh, and retirement.
 
 [Open the Lead Generation Workflow](workflows/lead-generation-workflow.md)
+#### Featured Workflow: Content Review
+
+A structured content-review workflow covering objectives, audiences, journey stages, channels, version control, usefulness, structure, clarity, brand voice, AI integrity, facts, sources, claims, quotations, stories, privacy, permissions, copyright, accessibility, visuals, links, ethical communication, specialized review, corrections, human approval, monitoring, refresh, and retirement.
+
+[Open the Content Review Workflow](workflows/content-review-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
@@ -356,7 +361,7 @@ A structured lead-generation workflow covering objectives, audiences, qualificat
 - [Knowledge ingestion and grounding](workflows/knowledge-ingestion-and-grounding-workflow.md)
 - [Brand voice onboarding](workflows/brand-voice-onboarding-workflow.md)
 - [Lead generation](workflows/lead-generation-workflow.md)
-- Content review
+- [Content review](workflows/content-review-workflow.md)
 - Campaign planning
 - Performance reporting
 
