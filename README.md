@@ -448,6 +448,11 @@ A comprehensive content hook development guide covering strategic alignment, aud
 A comprehensive content headline development guide covering strategic alignment, audience awareness, customer journey stages, content promises, platform and format requirements, headline structures, clarity, specificity, relevance, credibility, curiosity, brand fit, clickbait, vague claims, inflated certainty, keyword stuffing, generic AI language, repurposing accuracy, headline comparison, responsible AI, scoring, approval, testing, measurement, revision, reuse, archival, and retirement.
 
 [Open the Content Headline Development Guide](content-strategy/content-headline-development-guide.md)
+#### Featured Guide: Content Outline Development
+
+A comprehensive content outline development guide covering strategic alignment, audiences, customer journey stages, content promises, structural models, openings, section planning, sequencing, evidence, stories, examples, objections, transitions, conclusions, repetition control, logic gaps, unsupported claims, content drift, format adaptation, length, responsible AI, outline comparison, scoring, approval, revision, testing, archival, and retirement.
+
+[Open the Content Outline Development Guide](content-strategy/content-outline-development-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -457,7 +462,7 @@ A comprehensive content headline development guide covering strategic alignment,
 - [Content angle development guide](content-strategy/content-angle-development-guide.md)
 - [Content hook development guide](content-strategy/content-hook-development-guide.md)
 - [Content headline development guide](content-strategy/content-headline-development-guide.md)
-
+- [Content outline development guide](content-strategy/content-outline-development-guide.md)
 ## Core Principles
 
 ### Human Before Machine
