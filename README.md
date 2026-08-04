@@ -413,8 +413,14 @@ A comprehensive content strategy development guide covering business objectives,
 
 [Open the Content Strategy Development Guide](content-strategy/content-strategy-development-guide.md)
 
-- [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
+#### Featured Guide: Content Pillar Development
 
+A comprehensive content pillar development guide covering business objectives, audience needs, customer evidence, strategic alignment, pillar classification, evidence strength, authority, relevance, differentiation, scope, themes, customer journey stages, ownership, overlap, gaps, weak pillars, operational capacity, responsible AI, scoring, approval, activation, measurement, refresh, consolidation, and retirement.
+
+[Open the Content Pillar Development Guide](content-strategy/content-pillar-development-guide.md)
+
+- [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
+- [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
 ---
 
 ## Core Principles
