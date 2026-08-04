@@ -468,6 +468,11 @@ A comprehensive content editing guide covering developmental editing, substantiv
 A comprehensive content publication readiness guide covering final approval, version control, headline and hook alignment, facts, claims, sources, citations, links, privacy, confidentiality, permissions, copyright, accessibility, mobile presentation, platform requirements, metadata, visual assets, tracking, analytics, conversion destinations, scheduling, ownership, rollback, corrections, escalation, responsible AI, human approval, live verification, monitoring, archival, refresh, and retirement.
 
 [Open the Content Publication Readiness Guide](content-strategy/content-publication-readiness-guide.md)
+#### Featured Guide: Content Performance Review
+
+A comprehensive content performance review guide covering performance questions, audiences, customer journey stages, objectives, reach, engagement, completion, conversion, retention, trust signals, audience quality, vanity metrics, data quality, expected versus actual performance, content issues, distribution issues, offer and CTA issues, timing, measurement, context, caveats, attribution limits, responsible AI, findings, decision-making, action planning, approval, follow-up, refresh, repurposing, promotion, combination, pausing, and retirement.
+
+[Open the Content Performance Review Guide](content-strategy/content-performance-review-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -481,6 +486,7 @@ A comprehensive content publication readiness guide covering final approval, ver
 - [Content draft development guide](content-strategy/content-draft-development-guide.md)
 - [Content editing guide](content-strategy/content-editing-guide.md)
 - [Content publication readiness guide](content-strategy/content-publication-readiness-guide.md)
+- [Content performance review guide](content-strategy/content-performance-review-guide.md)
 
    ## Core Principles
 
