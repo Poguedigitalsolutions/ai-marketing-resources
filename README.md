@@ -403,6 +403,18 @@ A comprehensive customer research synthesis guide covering evidence preparation,
 - [Customer interview question bank](customer-research/customer-interview-question-bank.md)
 - [Customer evidence library](customer-research/customer-evidence-library.md)
 - [Customer research synthesis guide](customer-research/customer-research-synthesis-guide.md)
+### Content Strategy
+
+Practical resources for building content systems that connect business objectives, audience needs, customer journeys, brand voice, evidence, distribution, measurement, and human judgment.
+
+#### Featured Guide: Content Strategy Development
+
+A comprehensive content strategy development guide covering business objectives, audiences, customer journeys, strategic inputs, positioning, brand voice, content pillars, themes, content gaps, competitive context, formats, channels, messaging, calls to action, stories, expertise, sources, prioritization, editorial planning, repurposing, distribution, ownership, human approval, privacy, accessibility, responsible AI, measurement, learning, refresh, and retirement.
+
+[Open the Content Strategy Development Guide](content-strategy/content-strategy-development-guide.md)
+
+- [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
+
 ---
 
 ## Core Principles
