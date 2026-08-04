@@ -504,13 +504,16 @@ A foundational responsible AI marketing guide covering human accountability, tru
 [Open the Responsible AI Marketing Principles](responsible-ai/responsible-ai-marketing-principles.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
+#### Featured Guide: AI Use Risk Classification
 
----### Responsible AI
+A comprehensive AI use risk classification guide covering business purpose, affected people, audience vulnerability, data sensitivity, claim sensitivity, automation level, scale, reversibility, potential harm, transparency, low, moderate, high, and prohibited classifications, required controls, stop conditions, reviewers, approvers, monitoring, escalation, reclassification, responsible AI assistance, final approval, pausing, retirement, governance, and version history.
 
-Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
+[Open the AI Use Risk Classification Guide](responsible-ai/ai-use-risk-classification-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
+- [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
 
+---
    ## Core Principles
 
 ### Human Before Machine
