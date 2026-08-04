@@ -428,11 +428,18 @@ A comprehensive content theme development guide covering parent pillars, audienc
 A comprehensive content series development guide covering strategic alignment, audience progression, series objectives, promises, completion points, formats, channels, progression models, installment sequencing, openings, transitions, proof, stories, calls to action, dependencies, publishing cadence, ownership, approvals, brand voice, responsible AI, distribution, measurement, feedback, refresh, extension, pausing, archival, and retirement.
 
 [Open the Content Series Development Guide](content-strategy/content-series-development-guide.md)
+#### Featured Guide: Content Topic Development
+
+A comprehensive content topic development guide covering strategic alignment, audience questions, customer journey stages, usefulness, evidence, originality, timing, content angles, promises, key messages, proof, stories, calls to action, duplicate prevention, thin and generic topic prevention, trend review, prioritization, formats, channels, responsible AI, approval, scheduling, measurement, refresh, combination, and retirement.
+
+[Open the Content Topic Development Guide](content-strategy/content-topic-development-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
 - [Content theme development guide](content-strategy/content-theme-development-guide.md)
 - [Content series development guide](content-strategy/content-series-development-guide.md)
+- [Content topic development guide](content-strategy/content-topic-development-guide.md)
+
 ---
 
 ## Core Principles
