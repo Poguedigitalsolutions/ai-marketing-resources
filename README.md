@@ -423,11 +423,16 @@ A comprehensive content pillar development guide covering business objectives, a
 A comprehensive content theme development guide covering parent pillars, audience questions, customer evidence, founder insight, subject-matter expertise, strategic fit, relevance, depth, originality, proof, scope, customer journey stages, offers, formats, channels, calls to action, duplication, content drift, idea sprawl, ownership, operational capacity, responsible AI, scoring, approval, activation, measurement, refresh, merging, pausing, and retirement.
 
 [Open the Content Theme Development Guide](content-strategy/content-theme-development-guide.md)
+#### Featured Guide: Content Series Development
+
+A comprehensive content series development guide covering strategic alignment, audience progression, series objectives, promises, completion points, formats, channels, progression models, installment sequencing, openings, transitions, proof, stories, calls to action, dependencies, publishing cadence, ownership, approvals, brand voice, responsible AI, distribution, measurement, feedback, refresh, extension, pausing, archival, and retirement.
+
+[Open the Content Series Development Guide](content-strategy/content-series-development-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
 - [Content theme development guide](content-strategy/content-theme-development-guide.md)
-
+- [Content series development guide](content-strategy/content-series-development-guide.md)
 ---
 
 ## Core Principles
