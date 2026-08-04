@@ -524,12 +524,18 @@ A comprehensive AI data privacy and confidentiality guide covering business purp
 A comprehensive AI bias, inclusion, and accessibility guide covering affected audiences, bias sources, representation, stereotypes, assumptions, exclusion, harmful defaults, audience segmentation, differential treatment, prompt bias, output bias, targeting, personalization, cross-group testing, minority viewpoints, contradictions, text, image, video, audio, form, table and interface accessibility, reviewers, findings, escalation, responsible AI assistance, monitoring, reapproval, governance, pausing, and retirement.
 
 [Open the AI Bias, Inclusion, and Accessibility Guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
+#### Featured Guide: AI Transparency and Disclosure
+
+A comprehensive AI transparency and disclosure guide covering AI assistance, AI generation, automated interactions, synthetic media, personalization, recommendations, autonomous actions, audience expectations, risk-based disclosure, disclosure language, placement, timing, human-review accuracy, limitations, deceptive impersonation prevention, platform requirements, contractual and legal review, clarity testing, monitoring, correction, reapproval, governance, pausing, and retirement.
+
+[Open the AI Transparency and Disclosure Guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
 - [Human approval and oversight guide](responsible-ai/human-approval-and-oversight-guide.md)
 - [AI data privacy and confidentiality guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
 - [AI bias, inclusion, and accessibility guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
+- [AI transparency and disclosure guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
 
 ---
    ## Core Principles
