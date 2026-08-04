@@ -458,6 +458,11 @@ A comprehensive content outline development guide covering strategic alignment, 
 A comprehensive content draft development guide covering strategic alignment, drafting preparation, openings, section development, logical progression, evidence, sources, stories, examples, objections, transitions, brand voice, tone, filler, repetition, unsupported claims, generic AI language, content drift, conclusions, calls to action, format adaptation, responsible AI, completeness review, draft comparison, scoring, approval, revision, archival, and retirement.
 
 [Open the Content Draft Development Guide](content-strategy/content-draft-development-guide.md)
+#### Featured Guide: Content Editing
+
+A comprehensive content editing guide covering developmental editing, substantive editing, line editing, copyediting, proofreading, strategic alignment, structure, logic, evidence, claims, stories, objections, transitions, conclusions, calls to action, clarity, flow, brand voice, tone, filler, repetition, vague language, generic AI phrasing, grammar, privacy, permissions, copyright, accessibility, links, citations, formatting, platform requirements, responsible AI, version comparison, reviewer conflict resolution, final approval, archival, and retirement.
+
+[Open the Content Editing Guide](content-strategy/content-editing-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -469,7 +474,8 @@ A comprehensive content draft development guide covering strategic alignment, dr
 - [Content headline development guide](content-strategy/content-headline-development-guide.md)
 - [Content outline development guide](content-strategy/content-outline-development-guide.md)
 - [Content draft development guide](content-strategy/content-draft-development-guide.md)
-
+- [Content editing guide](content-strategy/content-editing-guide.md)
+  
   ## Core Principles
 
 ### Human Before Machine
