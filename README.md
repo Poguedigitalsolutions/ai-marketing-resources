@@ -529,6 +529,11 @@ A comprehensive AI bias, inclusion, and accessibility guide covering affected au
 A comprehensive AI transparency and disclosure guide covering AI assistance, AI generation, automated interactions, synthetic media, personalization, recommendations, autonomous actions, audience expectations, risk-based disclosure, disclosure language, placement, timing, human-review accuracy, limitations, deceptive impersonation prevention, platform requirements, contractual and legal review, clarity testing, monitoring, correction, reapproval, governance, pausing, and retirement.
 
 [Open the AI Transparency and Disclosure Guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
+#### Featured Guide: AI Incident Response and Correction
+
+A comprehensive AI incident response and correction guide covering incident detection, containment, evidence preservation, severity classification, ownership, scope investigation, root-cause analysis, factual, privacy, security, bias, accessibility, disclosure, automation, retrieval-system and agent corrections, derivative assets, notifications, verification, reapproval, restoration, restriction, redesign, retirement, recurrence monitoring, lessons learned, governance, and version history.
+
+[Open the AI Incident Response and Correction Guide](responsible-ai/ai-incident-response-and-correction-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
@@ -536,6 +541,7 @@ A comprehensive AI transparency and disclosure guide covering AI assistance, AI 
 - [AI data privacy and confidentiality guide](responsible-ai/ai-data-privacy-and-confidentiality-guide.md)
 - [AI bias, inclusion, and accessibility guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
 - [AI transparency and disclosure guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
+- [AI incident response and correction guide](responsible-ai/ai-incident-response-and-correction-guide.md)
 
 ---
    ## Core Principles
