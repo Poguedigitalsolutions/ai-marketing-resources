@@ -343,6 +343,11 @@ A structured workflow for turning transcripts, manuals, brand documents, and oth
 A structured brand-voice onboarding workflow covering business identity, audiences, customer journeys, offers, source collection, founder interviews, knowledge classification, voice characteristics, tone, vocabulary, rhythm, storytelling, judgment, boundaries, knowledge libraries, AI instructions, cross-channel testing, human approval, rollout, drift monitoring, governance, refresh, and offboarding.
 
 [Open the Brand Voice Onboarding Workflow](workflows/brand-voice-onboarding-workflow.md)
+#### Featured Workflow: Lead Generation
+
+A structured lead-generation workflow covering objectives, audiences, qualification criteria, customer journeys, acquisition channels, offers, lead magnets, landing pages, forms, consent, privacy, delivery, CRM routing, follow-up, sales handoffs, suppression rules, tracking, claims, accessibility, testing, human approval, monitoring, lead quality, corrections, optimization, refresh, and retirement.
+
+[Open the Lead Generation Workflow](workflows/lead-generation-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
@@ -350,7 +355,7 @@ A structured brand-voice onboarding workflow covering business identity, audienc
 - [Customer research](workflows/customer-research-workflow.md)
 - [Knowledge ingestion and grounding](workflows/knowledge-ingestion-and-grounding-workflow.md)
 - [Brand voice onboarding](workflows/brand-voice-onboarding-workflow.md)
-- Lead generation
+- [Lead generation](workflows/lead-generation-workflow.md)
 - Content review
 - Campaign planning
 - Performance reporting
