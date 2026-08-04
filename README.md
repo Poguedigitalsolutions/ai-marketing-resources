@@ -129,6 +129,7 @@ A responsible workflow-design resource covering triggers, eligibility, consent, 
 #### Prompt Development and Testing Prompt
 
 A systematic resource for defining AI tasks, organizing context, setting source rules and constraints, identifying failure modes, testing representative scenarios, comparing prompt versions, and documenting human approval.
+
 [Open the Prompt Development and Testing Prompt](prompts/prompt-development-and-testing.md)
 
 Reusable prompts for:
@@ -331,10 +332,10 @@ A structured storytelling system covering story discovery, fact and memory separ
 
 ---
 
+### Workflows
+
 Example AI-assisted workflows for:
 
-#### Featured Workflow: Article Creation
-Example AI-assisted workflows for:
 #### Featured Workflow: Article Creation
 
 A structured article-development workflow covering objectives, audiences, customer journey stages, ideas, stories, research, sources, claims, compelling openings, AI-assisted drafting, human voice, meaningful conclusions, accuracy, privacy, permissions, accessibility, approval, publication, repurposing, monitoring, corrections, refresh, and retirement.
@@ -525,17 +526,18 @@ A comprehensive content refresh and retirement guide covering review triggers, v
 
 ### Responsible AI
 
-Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
+Practical resources for applying artificial intelligence to marketing with human accountability, truthfulness, privacy, consent, inclusion, transparency, risk controls, documented approval, monitoring, correction, and governance.
 
 #### Featured Foundation: Responsible AI Marketing Principles
 
----
+A foundational responsible AI marketing guide covering human accountability, truthfulness, source integrity, privacy, confidentiality, consent, permissions, bias, inclusion, accessibility, transparency, appropriate and prohibited AI use, human approval, risk classification, escalation, correction, monitoring, governance, tool review, automation control, documentation, and retirement of unsafe or outdated AI practices.
 
-### Workflows
+[Open the Responsible AI Marketing Principles](responsible-ai/responsible-ai-marketing-principles.md)
 
-Example AI-assisted workflows for:
+#### Featured Guide: AI Use Risk Classification
 
-#### Featured Workflow: Article Creation
+A comprehensive AI use risk classification guide covering business purpose, affected people, audience vulnerability, data sensitivity, claim sensitivity, automation level, scale, reversibility, potential harm, transparency, low, moderate, high, and prohibited classifications, required controls, stop conditions, reviewers, approvers, monitoring, escalation, reclassification, responsible AI assistance, final approval, pausing, retirement, governance, and version history.
+
 [Open the AI Use Risk Classification Guide](responsible-ai/ai-use-risk-classification-guide.md)
 #### Featured Guide: Human Approval and Oversight
 
