@@ -43,8 +43,9 @@ This repository contains practical resources for:
 - [Core Principles](#core-principles)
 - [How to Use These Resources](#how-to-use-these-resources)
 
-### Prompts
+## Resource Library
 
+### Prompts
 #### Featured Resource: Brand Voice Discovery Prompt
 
 ## Resource Library
