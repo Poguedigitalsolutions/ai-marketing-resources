@@ -443,6 +443,11 @@ A comprehensive content angle development guide covering strategic alignment, au
 A comprehensive content hook development guide covering strategic alignment, audience awareness, customer journey stages, content promises, hook types, clarity, relevance, specificity, evidence, emotional weight, brand fit, false suspense, inflated urgency, fear bait, vague danger, generic AI openings, body connection, hook comparison, responsible AI, scoring, approval, testing, measurement, revision, reuse, and retirement.
 
 [Open the Content Hook Development Guide](content-strategy/content-hook-development-guide.md)
+#### Featured Guide: Content Headline Development
+
+A comprehensive content headline development guide covering strategic alignment, audience awareness, customer journey stages, content promises, platform and format requirements, headline structures, clarity, specificity, relevance, credibility, curiosity, brand fit, clickbait, vague claims, inflated certainty, keyword stuffing, generic AI language, repurposing accuracy, headline comparison, responsible AI, scoring, approval, testing, measurement, revision, reuse, archival, and retirement.
+
+[Open the Content Headline Development Guide](content-strategy/content-headline-development-guide.md)
 
 - [Content strategy development guide](content-strategy/content-strategy-development-guide.md)
 - [Content pillar development guide](content-strategy/content-pillar-development-guide.md)
@@ -451,7 +456,7 @@ A comprehensive content hook development guide covering strategic alignment, aud
 - [Content topic development guide](content-strategy/content-topic-development-guide.md)
 - [Content angle development guide](content-strategy/content-angle-development-guide.md)
 - [Content hook development guide](content-strategy/content-hook-development-guide.md)
----
+- [Content headline development guide](content-strategy/content-headline-development-guide.md)
 
 ## Core Principles
 
