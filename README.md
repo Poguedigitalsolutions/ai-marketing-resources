@@ -534,6 +534,11 @@ A comprehensive AI transparency and disclosure guide covering AI assistance, AI 
 A comprehensive AI incident response and correction guide covering incident detection, containment, evidence preservation, severity classification, ownership, scope investigation, root-cause analysis, factual, privacy, security, bias, accessibility, disclosure, automation, retrieval-system and agent corrections, derivative assets, notifications, verification, reapproval, restoration, restriction, redesign, retirement, recurrence monitoring, lessons learned, governance, and version history.
 
 [Open the AI Incident Response and Correction Guide](responsible-ai/ai-incident-response-and-correction-guide.md)
+#### Featured Guide: AI Tool and Vendor Governance
+
+A comprehensive AI tool and vendor governance guide covering business purpose, intended uses, vendor review, data handling, storage, retention, model-training use, security, subprocessors, model capabilities and limitations, reliability, explainability, auditability, export, deletion, ownership, licensing, pricing, contracts, approved, restricted and prohibited uses, integrations, connectors, APIs, agents, write permissions, pilot testing, user training, ownership, monitoring, reassessment, renewal, suspension, retirement, governance, and version history.
+
+[Open the AI Tool and Vendor Governance Guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
@@ -542,6 +547,7 @@ A comprehensive AI incident response and correction guide covering incident dete
 - [AI bias, inclusion, and accessibility guide](responsible-ai/ai-bias-inclusion-and-accessibility-guide.md)
 - [AI transparency and disclosure guide](responsible-ai/ai-transparency-and-disclosure-guide.md)
 - [AI incident response and correction guide](responsible-ai/ai-incident-response-and-correction-guide.md)
+- [AI tool and vendor governance guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
 
 ---
    ## Core Principles
