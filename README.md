@@ -509,9 +509,15 @@ A foundational responsible AI marketing guide covering human accountability, tru
 A comprehensive AI use risk classification guide covering business purpose, affected people, audience vulnerability, data sensitivity, claim sensitivity, automation level, scale, reversibility, potential harm, transparency, low, moderate, high, and prohibited classifications, required controls, stop conditions, reviewers, approvers, monitoring, escalation, reclassification, responsible AI assistance, final approval, pausing, retirement, governance, and version history.
 
 [Open the AI Use Risk Classification Guide](responsible-ai/ai-use-risk-classification-guide.md)
+#### Featured Guide: Human Approval and Oversight
+
+A comprehensive human approval and oversight guide covering review requirements, role separation, risk-based oversight, reviewer context, exact-version control, approval types, conditional approval, rejection, stop conditions, bypass prevention, time-limited approval, high-volume queues, anti-rubber-stamping controls, decision records, reapproval triggers, monitoring, escalation, responsible AI assistance, pausing, retirement, governance, and accountability.
+
+[Open the Human Approval and Oversight Guide](responsible-ai/human-approval-and-oversight-guide.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
+- [Human approval and oversight guide](responsible-ai/human-approval-and-oversight-guide.md)
 
 ---
    ## Core Principles
