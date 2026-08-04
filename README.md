@@ -358,6 +358,11 @@ A structured content-review workflow covering objectives, audiences, journey sta
 A structured campaign-planning workflow covering objectives, audiences, customer journeys, offers, positioning, messaging, brand voice, channels, content themes, assets, timelines, responsibilities, budgets, lead capture, CRM routing, follow-up, sales handoffs, automation, facts, claims, privacy, permissions, accessibility, risks, approval gates, testing, human approval, launch, monitoring, attribution, optimization, corrections, closeout, refresh, and retirement.
 
 [Open the Campaign Planning Workflow](workflows/campaign-planning-workflow.md)
+#### Featured Workflow: Performance Reporting
+
+A structured performance-reporting workflow covering reporting objectives, audiences, decisions, periods, metrics, formulas, targets, benchmarks, data sources, collection, completeness, quality, reconciliation, campaign and channel performance, content, leads, sales, revenue, costs, customer outcomes, attribution, AI-assisted analysis, anomaly detection, evidence classification, forecasting, findings, recommendations, executive summaries, charts, accessibility, privacy, human verification, distribution, corrections, recurring reports, archival, and retirement.
+
+[Open the Performance Reporting Workflow](workflows/performance-reporting-workflow.md)
 
 - [Article creation](workflows/article-creation-workflow.md)
 - [Social media publishing](workflows/social-media-publishing-workflow.md)
@@ -368,7 +373,7 @@ A structured campaign-planning workflow covering objectives, audiences, customer
 - [Lead generation](workflows/lead-generation-workflow.md)
 - [Content review](workflows/content-review-workflow.md)
 - [Campaign planning](workflows/campaign-planning-workflow.md)
-- Performance reporting
+- [Performance reporting](workflows/performance-reporting-workflow.md)
 
 ---
 
