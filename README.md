@@ -544,6 +544,11 @@ A comprehensive AI tool and vendor governance guide covering business purpose, i
 A comprehensive AI monitoring, audit, and review guide covering approved baselines, monitoring signals, thresholds, ownership, review frequency, accuracy, brand voice, privacy, security, bias, accessibility, disclosure, automation, approval, reliability and performance monitoring, prompt, output, model, data-source, permission, approval, automation and agent audits, vendor and contract changes, drift detection, evidence preservation, findings, risk reclassification, corrective action, reapproval, recurring audits, event-triggered reviews, continuation, restriction, redesign, suspension, retirement, governance, and version history.
 
 [Open the AI Monitoring, Audit, and Review Guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
+#### Featured Framework: AI Policy and Governance
+
+An organization-wide AI policy and governance framework covering responsible AI principles, scope, approved, restricted and prohibited uses, roles and accountability, risk classification, data privacy and confidentiality, bias, inclusion, accessibility, transparency, human approval, tool and vendor governance, integrations, APIs, agents, monitoring, audit, incident response, training, documentation, reapproval, exceptions, enforcement, suspension, retirement, policy review, governance ownership, and version history.
+
+[Open the AI Policy and Governance Framework](responsible-ai/ai-policy-and-governance-framework.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
 - [AI use risk classification guide](responsible-ai/ai-use-risk-classification-guide.md)
@@ -554,6 +559,8 @@ A comprehensive AI monitoring, audit, and review guide covering approved baselin
 - [AI incident response and correction guide](responsible-ai/ai-incident-response-and-correction-guide.md)
 - [AI tool and vendor governance guide](responsible-ai/ai-tool-and-vendor-governance-guide.md)
 - [AI monitoring, audit, and review guide](responsible-ai/ai-monitoring-audit-and-review-guide.md)
+- [AI policy and governance framework](responsible-ai/ai-policy-and-governance-framework.md)
+
 ---
    ## Core Principles
 
