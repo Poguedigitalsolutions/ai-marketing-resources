@@ -374,6 +374,17 @@ A structured performance-reporting workflow covering reporting objectives, audie
 - [Content review](workflows/content-review-workflow.md)
 - [Campaign planning](workflows/campaign-planning-workflow.md)
 - [Performance reporting](workflows/performance-reporting-workflow.md)
+### Customer Research
+
+Practical resources for collecting, organizing, verifying, interpreting, and applying customer evidence without flattening people into generic personas or manufactured quotations.
+
+#### Featured Guide: Voice of Customer Research
+
+A comprehensive Voice of Customer research guide covering research decisions, audiences, segments, methods, recruitment, consent, privacy, interviews, surveys, conversation analysis, direct customer language, evidence classification, coding, themes, contradictions, customer journeys, research libraries, findings, recommendations, positioning, offers, messaging, content, sales, customer experience, AI grounding, human review, refresh, archival, and retirement.
+
+[Open the Voice of Customer Research Guide](customer-research/voice-of-customer-research-guide.md)
+
+- [Voice of Customer research guide](customer-research/voice-of-customer-research-guide.md)
 
 ---
 
