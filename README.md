@@ -12,7 +12,7 @@ The goal is to help founders, consultants, service providers, marketers, and sma
 
 ## What You Will Find Here
 
-This repository will contain practical resources for:
+This repository contains practical resources for:
 
 - Brand voice development
 - Content strategy
@@ -27,6 +27,21 @@ This repository will contain practical resources for:
 - Workflow design
 - Human review and approval
 - Responsible AI-assisted communication
+
+---
+
+## Explore the Library
+
+- [Prompts](#prompts)
+- [Templates](#templates)
+- [Checklists](#checklists)
+- [Frameworks](#frameworks)
+- [Workflows](#workflows)
+- [Customer Research](#customer-research)
+- [Content Strategy](#content-strategy)
+- [Responsible AI](#responsible-ai)
+- [Core Principles](#core-principles)
+- [How to Use These Resources](#how-to-use-these-resources)
 
 ---
 
@@ -110,8 +125,8 @@ A structured founder-interview and knowledge-base workflow for documenting origi
 A responsible workflow-design resource covering triggers, eligibility, consent, customer data, segmentation, automated actions, decision branches, human approvals, failure paths, testing, measurement, and change control.
 
 [Open the Marketing Automation Workflow Prompt](prompts/marketing-automation-workflow.md)
-#### Prompt Development and Testing Prompt
 
+#### Prompt Development and Testing Prompt
 A systematic resource for defining AI tasks, organizing context, setting source rules and constraints, identifying failure modes, testing representative scenarios, comparing prompt versions, and documenting human approval.
 
 [Open the Prompt Development and Testing Prompt](prompts/prompt-development-and-testing.md)
@@ -132,6 +147,8 @@ Reusable prompts for:
 - Founder knowledge capture
 - Marketing automation workflows
 - Prompt development and testing
+
+---
 
 ### Templates
 #### Featured Template: Brand Voice Profile Template
@@ -200,6 +217,8 @@ Practical templates for:
 - [Marketing report](templates/marketing-report-template.md)
 - [Standard operating procedure](templates/standard-operating-procedure-template.md)
 
+---
+
 ### Checklists
 #### Featured Checklist: AI-Generated Content Review Checklist
 
@@ -258,6 +277,8 @@ Step-by-step checklists for:
 - [Verifying facts and sources](checklists/fact-and-source-verification-checklist.md)
 - [Protecting confidential information](checklists/confidential-information-protection-checklist.md)
 - [Approving automated communications](checklists/automated-communications-approval-checklist.md)
+
+---
 
 ### Frameworks
 
@@ -374,6 +395,8 @@ A structured performance-reporting workflow covering reporting objectives, audie
 - [Content review](workflows/content-review-workflow.md)
 - [Campaign planning](workflows/campaign-planning-workflow.md)
 - [Performance reporting](workflows/performance-reporting-workflow.md)
+---
+
 ### Customer Research
 
 Practical resources for collecting, organizing, verifying, interpreting, and applying customer evidence without flattening people into generic personas or manufactured quotations.
@@ -403,6 +426,8 @@ A comprehensive customer research synthesis guide covering evidence preparation,
 - [Customer interview question bank](customer-research/customer-interview-question-bank.md)
 - [Customer evidence library](customer-research/customer-evidence-library.md)
 - [Customer research synthesis guide](customer-research/customer-research-synthesis-guide.md)
+---
+
 ### Content Strategy
 
 Practical resources for building content systems that connect business objectives, audience needs, customer journeys, brand voice, evidence, distribution, measurement, and human judgment.
@@ -504,7 +529,7 @@ A foundational responsible AI marketing guide covering human accountability, tru
 [Open the Responsible AI Marketing Principles](responsible-ai/responsible-ai-marketing-principles.md)
 
 - [Responsible AI marketing principles](responsible-ai/responsible-ai-marketing-principles.md)
-#### Featured Guide: AI Use Risk Classification
+
 
 A comprehensive AI use risk classification guide covering business purpose, affected people, audience vulnerability, data sensitivity, claim sensitivity, automation level, scale, reversibility, potential harm, transparency, low, moderate, high, and prohibited classifications, required controls, stop conditions, reviewers, approvers, monitoring, escalation, reclassification, responsible AI assistance, final approval, pausing, retirement, governance, and version history.
 
@@ -567,7 +592,9 @@ A comprehensive responsible AI implementation roadmap covering current-state ass
 - [AI policy and governance framework](responsible-ai/ai-policy-and-governance-framework.md)
 - [Responsible AI implementation roadmap](responsible-ai/responsible-ai-implementation-roadmap.md)
 ---
-   ## Core Principles
+ ---
+
+## Core Principles  ## Core Principles
 
 ### Human Before Machine
 
@@ -613,7 +640,7 @@ These resources are being developed for:
 
 ---
 
-## Planned Repository Structure
+## Repository Structure
 
 ```text
 ai-marketing-resources/
@@ -632,16 +659,14 @@ ai-marketing-resources/
 
 ## Current Development Priorities
 
-- Brand voice discovery prompts
-- Founder knowledge-capture questions
-- Customer avatar interview templates
-- AI content review checklists
-- LinkedIn article frameworks
-- Social media repurposing workflows
-- Human approval process templates
-- Customer journey mapping resources
-- Responsible AI communication guidance
-- Prompt-writing best practices
+- Repository navigation and discoverability
+- Quick-start guides for new users
+- Downloadable implementation bundles
+- Practical examples and completed samples
+- Cross-resource learning paths
+- Responsible AI adoption tools
+- Issue templates and contribution guidance
+- Resource maintenance and version tracking
 
 ---
 
