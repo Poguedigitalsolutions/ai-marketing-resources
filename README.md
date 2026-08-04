@@ -393,11 +393,16 @@ A comprehensive customer interview question bank covering research decisions, co
 A governed customer evidence library covering source records, participants, consent, permissions, privacy, exact quotations, context, behavioral evidence, evidence classification, audience segments, customer journey stages, problems, triggers, previous attempts, alternatives, objections, trust, doubt, desired outcomes, success, failure, retention, churn, themes, contradictions, minority viewpoints, confidence levels, approved applications, AI grounding, access controls, review, refresh, retirement, and human approval.
 
 [Open the Customer Evidence Library](customer-research/customer-evidence-library.md)
+#### Featured Guide: Customer Research Synthesis
+
+A comprehensive customer research synthesis guide covering evidence preparation, coding frameworks, pattern and theme development, frequency, severity, confidence, importance, audience segments, customer journey stages, contradictions, exceptions, minority viewpoints, evidence classification, findings, recommendations, prioritization, positioning, offers, messaging, content, sales, customer experience, AI-assisted analysis, human verification, version control, refresh, archival, and retirement.
+
+[Open the Customer Research Synthesis Guide](customer-research/customer-research-synthesis-guide.md)
 
 - [Voice of Customer research guide](customer-research/voice-of-customer-research-guide.md)
 - [Customer interview question bank](customer-research/customer-interview-question-bank.md)
 - [Customer evidence library](customer-research/customer-evidence-library.md)
-
+- [Customer research synthesis guide](customer-research/customer-research-synthesis-guide.md)
 ---
 
 ## Core Principles
