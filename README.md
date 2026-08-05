@@ -46,9 +46,10 @@ This repository contains practical resources for:
 ## Resource Library
 
 ### Prompts
+
 #### Featured Resource: Brand Voice Discovery Prompt
 
-A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.
+A structured prompt for identifying a brand’s voice, tone, values, language patterns, storytelling habits, and authenticity risks.
 
 [Open the Brand Voice Discovery Prompt](prompts/brand-voice-discovery.md)
 
@@ -402,6 +403,7 @@ A structured performance-reporting workflow covering reporting objectives, audie
 ---
 
 ### Customer Research
+
 Practical resources for collecting, organizing, verifying, interpreting, and applying customer evidence without flattening people into generic personas or manufactured quotations.
 
 #### Featured Guide: Voice of Customer Research
@@ -601,6 +603,7 @@ A comprehensive responsible AI implementation roadmap covering current-state ass
 ---
 
 ## Core Principles
+
 ### Human Before Machine
 
 AI should support human judgment, creativity, and decision-making.
