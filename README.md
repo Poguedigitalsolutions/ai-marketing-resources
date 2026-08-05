@@ -8,6 +8,8 @@ The goal is to help founders, consultants, service providers, marketers, and sma
 
 ## Start Here
 
+- [View the Repository Roadmap](ROADMAP.md)
+
 New to the library? Use the [Quick Start Guide](QUICK-START.md) to choose the right resources for your goal.
 
 > AI should amplify human expression, not replace it.
