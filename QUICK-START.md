@@ -144,6 +144,12 @@ Start here:
 6. [Fact and Source Verification Checklist](checklists/fact-and-source-verification-checklist.md)
 
 Use this path for welcome sequences, nurture campaigns, launches, onboarding, follow-up, and re-engagement.
+### See a completed example
+
+[View the Completed Email Campaign Example](examples/email-campaign-example.md)
+### See a completed example
+
+[View the Completed Email Campaign Example](examples/email-campaign-example.md)
 
 ---
 
