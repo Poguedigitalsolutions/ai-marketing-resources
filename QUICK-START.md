@@ -55,6 +55,9 @@ Avoid inventing customer quotations or treating assumptions as evidence.
 ---
 
 ### I need to map the customer journey
+### See a completed example
+
+[View the Completed Customer Journey Map Example](examples/customer-journey-map-example.md)
 
 Start here:
 
