@@ -187,6 +187,9 @@ Use this path to coordinate objectives, audiences, offers, messaging, channels, 
 ### See a completed example
 
 [View the Completed Campaign Plan Example](examples/campaign-plan-example.md)
+### See the completed results report
+
+[View the Completed Marketing Report Example](examples/marketing-report-example.md)
 
 ---
 
