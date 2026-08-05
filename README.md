@@ -10,6 +10,7 @@ The goal is to help founders, consultants, service providers, marketers, and sma
 
 - [View the Repository Roadmap](ROADMAP.md)
 - [View a Completed Brand Voice Profile Example](examples/brand-voice-profile-example.md)
+- [View a Completed Customer Avatar Research Example](examples/customer-avatar-research-example.md)
 
 New to the library? Use the [Quick Start Guide](QUICK-START.md) to choose the right resources for your goal.
 
