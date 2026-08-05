@@ -16,6 +16,7 @@ The goal is to help founders, consultants, service providers, marketers, and sma
 - [View a Completed Campaign Plan Example](examples/campaign-plan-example.md)
 - [View a Completed Email Campaign Example](examples/email-campaign-example.md)
 - [View a Completed Lead Magnet Example](examples/lead-magnet-example.md)
+- [View a Completed Approval Workflow Example](examples/approval-workflow-example.md)
 
 New to the library? Use the [Quick Start Guide](QUICK-START.md) to choose the right resources for your goal.
 
