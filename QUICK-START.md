@@ -165,6 +165,9 @@ Start here:
 6. [Lead Generation Workflow](workflows/lead-generation-workflow.md)
 
 Use this path to create checklists, guides, assessments, templates, worksheets, and other practical resources tied to a specific audience problem.
+### See a completed example
+
+[View the Completed Lead Magnet Example](examples/lead-magnet-example.md)
 
 ---
 
