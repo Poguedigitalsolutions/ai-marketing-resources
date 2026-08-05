@@ -202,6 +202,9 @@ Start here:
 6. [Automated Communications Approval Checklist](checklists/automated-communications-approval-checklist.md)
 
 Use this path to define triggers, decisions, roles, approvals, failure paths, escalation rules, monitoring, and human accountability.
+### See a completed example
+
+[View the Completed Approval Workflow Example](examples/approval-workflow-example.md)
 
 ---
 
