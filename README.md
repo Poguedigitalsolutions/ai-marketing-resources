@@ -6,6 +6,10 @@ This repository is maintained by **John M. Pogue**, founder of **Pogue Digital S
 
 The goal is to help founders, consultants, service providers, marketers, and small businesses use artificial intelligence to improve their work without losing their voice, values, judgment, or humanity.
 
+## Start Here
+
+New to the library? Use the [Quick Start Guide](QUICK-START.md) to choose the right resources for your goal.
+
 > AI should amplify human expression, not replace it.
 
 ---
