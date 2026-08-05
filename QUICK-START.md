@@ -73,6 +73,9 @@ Use this path to identify customer questions, needs, emotions, friction, touchpo
 ---
 
 ### I need to create a content strategy
+### See a completed example
+
+[View the Completed Content Brief Example](examples/content-brief-example.md)
 
 Start here:
 
