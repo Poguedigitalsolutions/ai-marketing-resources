@@ -16,6 +16,10 @@ Start with the problem you are trying to solve, follow the recommended path, and
 
 ### I need to define my brand voice
 
+### See a completed example
+
+[View the Completed Brand Voice Profile Example](examples/brand-voice-profile-example.md)
+
 Start here:
 
 1. [Brand Voice Discovery Prompt](prompts/brand-voice-discovery.md)
