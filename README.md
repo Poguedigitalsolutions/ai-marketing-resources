@@ -7,7 +7,7 @@ This repository is maintained by **John M. Pogue**, founder of **Pogue Digital S
 The goal is to help founders, consultants, service providers, marketers, and small businesses use artificial intelligence to improve their work without losing their voice, values, judgment, or humanity.
 
 ## Start Here
-
+- [Explore the Completed Examples](examples/README.md)
 - [View the Repository Roadmap](ROADMAP.md)
 - [View a Completed Brand Voice Profile Example](examples/brand-voice-profile-example.md)
 - [View a Completed Customer Avatar Research Example](examples/customer-avatar-research-example.md)
