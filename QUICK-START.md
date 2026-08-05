@@ -46,6 +46,10 @@ Start here:
 
 Use this path to understand customer goals, language, frustrations, objections, buying triggers, decision criteria, and desired outcomes.
 
+### See a completed example
+
+[View the Completed Customer Avatar Research Example](examples/customer-avatar-research-example.md)
+
 Avoid inventing customer quotations or treating assumptions as evidence.
 
 ---
