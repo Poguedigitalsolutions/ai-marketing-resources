@@ -175,6 +175,9 @@ Start here:
 7. [Marketing Report Template](templates/marketing-report-template.md)
 
 Use this path to coordinate objectives, audiences, offers, messaging, channels, content, timelines, ownership, budgets, approvals, automation, measurement, and post-campaign review.
+### See a completed example
+
+[View the Completed Campaign Plan Example](examples/campaign-plan-example.md)
 
 ---
 
