@@ -87,24 +87,21 @@ Potential learning paths include:
 
 ## Phase 3: Completed Examples
 
-**Status: Planned**
+**Status: In progress**
 
 The repository will add completed examples showing how the resources work in practice.
 
 Planned examples include:
 
-- [ ] Completed brand voice profile
-- [ ] Completed customer avatar research
-- [ ] Completed customer journey map
-- [ ] Completed content brief
-- [ ] Completed campaign plan
-- [ ] Completed editorial calendar
-- [ ] Completed messaging guide
-- [ ] Completed article workflow
-- [ ] Completed email campaign
-- [ ] Completed lead magnet
-- [ ] Completed approval workflow
-- [ ] Completed marketing report
+- [x] Completed brand voice profile
+- [x] Completed customer avatar research
+- [x] Completed customer journey map
+- [x] Completed content brief
+- [x] Completed campaign plan
+- [x] Completed email campaign
+- [x] Completed lead magnet
+- [x] Completed approval workflow
+- [x] Completed marketing report
 - [ ] Completed standard operating procedure
 - [ ] Completed responsible AI risk review
 
