@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Read the Quick Start Guide
+    url: https://github.com/poguedigitalsolutions/ai-marketing-resources/blob/main/QUICK-START.md
+    about: Find the right resource path before opening an issue.
+
+  - name: Review Contribution Guidelines
+    url: https://github.com/poguedigitalsolutions/ai-marketing-resources/blob/main/CONTRIBUTING.md
+    about: Review quality, privacy, sourcing, accessibility, and responsible AI requirements.
